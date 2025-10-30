@@ -12,8 +12,8 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2023">Encoding</resp>
-               <persName><!--todo--></persName>
+               <resp when="2025">Encoding</resp>
+               <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -34,66 +34,75 @@
                   <settlement>Oxford</settlement>
                   <repository>All Souls College</repository>
                   <idno type="shelfmark">All Souls College MS. 59</idno>
+                  <altIdentifier type="shelfmark">
+                     <idno>LR 2.c.5</idno>
+                  </altIdentifier>
                   <!--ARKS to be added-->
                </msIdentifier>
                <msContents>
                   <textLang mainLang="la">Latin</textLang>
                   <!--check-->
                   <msItem n="1" xml:id="All_Souls_College_MS_59-item-1">
-                     <rubric><!--todo--></rubric>
-                     <incipit><!--todo--></incipit>
-                     <explicit><!--todo--></explicit>
-                     <finalRubric><!--todo--></finalRubric>
-                     <author><!--todo--></author>
-                     <title><!--todo--></title>
-                     <listBibl>
-                        <bibl><!--todo--></bibl>
-                     </listBibl>
+                     <incipit><supplied>H</supplied>omo natus de muliere breue viuens tempore repletur multis miseriis <locus from="1r" to="2r">fol. 1<hi rend="superscript">r</hi></locus></incipit>
+                     <explicit>de quo intenditur circa publica crimina in C. et ff. hic sit finis benedictus deus amen.</explicit>
+                     <finalRubric>In fine presentis voluminis <lb /> Gratia sit deo. Vnigenito patris <lb /> Almi virgine eiusque mater <lb /> Gratia oblata pro posse. Ab eius sit scriptore <lb /> Gratiam cui in mortis die <lb /> Tribuant his pro mercede. <lb /> Ego <persName key="person_4556" role="scr">Johannes</persName> legam Remen' diocesis studens aurelian' hanc lecturam finiui <date when="1406-12-15">xv. die mensis decembris</date> cum magnis vigiliis et sumptibus propriis cum dei auxilio Deo gratias <date when="1406">Anno domini .m<hi rend="superscript">mo</hi>. quadringentesimo sexto</date>. <locus from="244r" to="244r">fol. 244<hi rend="superscript">r</hi></locus></finalRubric>
+                     <author key="person_101590738">Johannes Faber Runcinus (Jean Faure de Roussines)</author>
+                     <title key="work_5553">Lectura in Institutiones Justiniani</title>
+                     <note>
+                        <p><bibl type="edition">pr. Lyons, c.1485, etc., GW 9633-7</bibl>; and see <bibl>Savigny, vi (1850), 40-5</bibl>.</p>
+                        <p>Because of the excision of initials the following losses of text occur: ten half-lines on <locus from="1v" to="2v">fols. 1<hi rend="superscript">v</hi> 2<hi rend="superscript">rv</hi></locus> because of the excision of the main initial on <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus>; eight half-lines on <locus from="35v" to="35v">fol. 35<hi rend="superscript">v</hi></locus>; nine half-lines on <locus from="143v" to="143v">fol. 143<hi rend="superscript">v</hi></locus>. <locus from="97v" to="97v">Fol. 97<hi rend="superscript">v</hi></locus> ends <quote>contentas in una fronde</quote> (edn. fol. 55<hi rend="superscript">va</hi>/28) and <locus from="98r" to="98r">fol. 98<hi rend="superscript">r</hi></locus> is blank but the text resumes on <locus from="99v" to="99v">fol. 99<hi rend="superscript">v</hi></locus> with the loss of only 12-13 lines of edn., fol. 55<hi rend="superscript">va</hi>/41. On <locus from="157r" to="157v">fols. 157<hi rend="superscript">rv</hi></locus> the scribe left spaces within lines which he later filled, overflowing into the margins. On <locus from="210v" to="210v">fol. 210<hi rend="superscript">v</hi></locus> the text ends five lines from the bottom at <quote>Omnium actionum</quote> (edn. fol. 119<hi rend="superscript">a</hi>/2) and the next half-column is written in very large quadrata bookhand, presumably to fill up the space which had been left blank, resuming the normal size at <quote>Per has diuisiones</quote> (edn. fol. 119<hi rend="superscript">a</hi>/15).</p>
+                     </note>
                   </msItem>
                </msContents>
                <physDesc>
                   <p>
-                     <secFol><!--todo--></secFol>
+                     <secFol>dicit azo</secFol>
                   </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support><!--todo--></support>
+                        <support>Written on 244 membrane leaves, some with blemishes (of which some were repaired by sewing) and some repaired before writing. Folded FSOS.</support>
                         <extent>
-                           <measure type="leaf"><!--todo--></measure>
+                           <measure type="leaf">244</measure>
                            <dimensions type="leaf" unit="mm">
-                              <height><!--todo--></height>
-                              <width><!--todo--></width>
+                              <height>412</height>
+                              <width>270</width>
                            </dimensions>
                         </extent>
-                        <foliation><!--todo--></foliation>
-                        <collation><!--todo--></collation>
-                        <condition><!--todo--></condition>
+                        <foliation>Leaves are numbered in modern pencil.</foliation>
+                        <collation>Collation (in the Orléans manner in twelves) <formula>1-20<hi rend="superscript">12</hi> 21<hi rend="superscript">4</hi></formula>
+                           <signatures>There are traces of quire signatures c-v in a very cursive hand, very low on the last versos of quires and often trimmed off.</signatures> 
+                           <catchwords>Catch-words are in the scribe's hand.</catchwords>
+                        </collation>
+                        <condition>A few leaves have damp-stains. Initials have been excised.</condition>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout columns="2" rulingMedium="crayon" writtenLines="54 56">Written in two columns, each <dimensions type="written" unit="mm"><height quantity="300">300</height> <width min="85" max="90">85-90</width></dimensions> mm, 54-6 lines. Pricking is for vertical ruling only. Frame ruling in crayon with sometimes only verticals drawn, except on <locus from="203r" to="203v">fol. 203</locus>, an unused leaf much more fully drawn.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote><!--todo--></handNote>
+                     <handNote script="cursivaAntiquior" scribe="person_4556">Written by a named scribe in a good gothic cursive, except for a half-column on <locus from="211r" to="211r">fol. 211<hi rend="superscript">r</hi></locus> (see under Contents), which is in a fair quadrata bookhand also used throughout for headings. Part of <locus from="14r" to="14r">fol. 14<hi rend="superscript">r</hi></locus> repr. <bibl>MSDO, pl. 255</bibl>. Punctuation is by medial point and virgula</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote><!--todo--></decoNote>
+                     <decoNote type="border">Good flourished bar borders and initials, probably by one artist.</decoNote>
+                     <decoNote type="initial">Eight/eleven-line initials have been excised at the beginning of bks. 1, 2, and 4, on <locus from="1r" to="1r">fols. 1</locus> (with loss of text on <locus from="2r" to="2v">fol. 2</locus> and cutting but no loss of text on <locus from="3r" to="3v">fol. 3</locus>), <locus from="35v" to="35v">fol. 35<hi rend="superscript">v</hi></locus> (with loss of text (see above)), and <locus from="143r" to="143r">fol. 143<hi rend="superscript">r</hi></locus> (with cutting but no loss of text on <locus from="144r" to="144v">fol. 144</locus>). The initial surviving at the beginning of bk. 3 (<locus from="93v" to="93v">fol. 93<hi rend="superscript">v</hi></locus>) is a very large J extended into a bar between columns, reddish pink with white tracery. Throughout there are three-line gold initials on a blue or dark red background touched with white, some extending into the margins.</decoNote>
+                     <decoNote type="rubrication">Rubrics and headings in ink; running titles, running numbers, paraphs, and the underlining of lemmata are in red and blue. Instructions to the rubricator are written in margins.</decoNote>
+                     <decoNote><bibl>Alexander and Temple, no. 754.</bibl></decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <binding>
-                        <p><!--todo--></p>
+                     <binding notBefore="1477">
+                        <p>Sewn on five bands between projecting, chamfered <material>oak boards</material> covered with <material>white alum-tawed sheepskin</material>. On the spine is a black leather lozenge-shaped label with <quote>3</quote> on it. On the front cover are the remains of two straps held by the usual nails (but three nails holding the top strap and two holding the lower are replacements) and on the back cover the remains of two strap-catches. Low on the back cover are also marks and holes from a chain-staple held by two nails (position 5). The pastedown on the back cover is sig. b3 from the <bibl>Cologne Panormitanus of <date when="1477">1477</date></bibl> of which other leaves are in MSS <ref target="#All_Souls_College_MS_50">50</ref> (q.v.), <ref target="#All_Souls_College_MS_52">52</ref>, <ref target="#All_Souls_College_MS_61">61</ref>, <ref target="#All_Souls_College_MS_62">62</ref>, <ref target="#All_Souls_College_MS_69">69</ref>, <ref target="#All_Souls_College_MS_83">83</ref>, and <ref target="#All_Souls_College_MS_85">85</ref>. The end-bands are blue and white and edges are yellowed.</p>
                      </binding>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notAfter="" notBefore=""><!--todo--></origDate>
-                     <origPlace>
-                        <country key=""><!--todo--></country>
+                     <origDate calendar="Gregorian" when="1406">1406</origDate>
+                     <origPlace key="place_2989317">Orléans, 
+                        <country key="place_1000070">France</country>
                      </origPlace>
                   </origin>
-                  <provenance><!--todo--></provenance>
+                  <provenance>On the front pastedown is <quote>Iohannes Faber doctor legum fuit iste quod <persName key="person_7762155769101127880003">Goldwell</persName></quote> in a gothica-humanistica hand which does not resemble Goldwell's hand in <ref target="#All_Souls_College_MS_93">MS 93</ref>. Not in the list of books given by him to the College in <bibl>BRUO, 385</bibl>. <bibl>Ker, <title>All Souls</title>, List II, no. 240</bibl>, with <quote>libri iuris ciuilis cath</quote>. No. 38 in <bibl>James, <title>Ecloga</title></bibl>, and no. 1416 (15) in <bibl>CMA</bibl>.</provenance>
+                  <provenance>All Souls library identifications are, on the front pastedown, <quote>vv.2.6</quote> and <quote>ww.2.3</quote> (both deleted), <quote>159</quote> (pencil), <quote>MS. 59</quote> (figure added), <quote>Johannes Faber</quote> (<date notBefore="1700" notAfter="1800">s. xviii</date>), and bookplate no. 8, on which is <quote>L.R. 2.c.5</quote>.</provenance>
                </history>
                <additional>
                   <adminInfo>
