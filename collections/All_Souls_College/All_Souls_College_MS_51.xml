@@ -12,8 +12,8 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2023">Encoding</resp>
-               <persName><!--todo--></persName>
+               <resp when="2025">Encoding</resp>
+               <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -34,66 +34,94 @@
                   <settlement>Oxford</settlement>
                   <repository>All Souls College</repository>
                   <idno type="shelfmark">All Souls College MS. 51</idno>
+                  <altIdentifier type="shelfmark">
+                     <idno type="shelfmark">LR 6.b.5</idno>
+                  </altIdentifier>
                   <!--ARKS to be added-->
                </msIdentifier>
+               <head>Justinian, <hi rend="italic">Infortiatum</hi> (xxiv, 3-xxxviii of <hi rend="italic">Digest</hi>); with the gloss of Accursius</head>
                <msContents>
                   <textLang mainLang="la">Latin</textLang>
-                  <!--check-->
                   <msItem n="1" xml:id="All_Souls_College_MS_51-item-1">
-                     <rubric><!--todo--></rubric>
-                     <incipit><!--todo--></incipit>
-                     <explicit><!--todo--></explicit>
-                     <finalRubric><!--todo--></finalRubric>
-                     <author><!--todo--></author>
-                     <title><!--todo--></title>
-                     <listBibl>
-                        <bibl><!--todo--></bibl>
-                     </listBibl>
+                     <rubric type="text">Soluto in matrimonio quemadmodum dos petatur. Rubrica. <locus from="1r" to="1r">Fol. 1<hi rend="superscript">r</hi></locus></rubric>
+                     <incipit type="text">Dotis causa semper et ubique precipua est <locus from="1r" to="1r">Fol. 1<hi rend="superscript">r</hi></locus></incipit>
+                     <explicit type="text">qui in hostium potestate erat postliminio non sit reuersus. <locus from="278v" to="278v">Fol. 278<hi rend="superscript">v</hi></locus></explicit>
+                     <incipit type="gloss">Soluto matrimonio quemadmodum dos petatur. So. ma. dixit <locus from="1r" to="1r">Fol. 1<hi rend="superscript">r</hi></locus></incipit>
+                     <explicit type="gloss">illud in principio u. ac. <locus from="278r" to="278r">Fol. 278<hi rend="superscript">r</hi></locus></explicit>
+                     <finalRubric type="gloss">Explicit Apparatus inforciati. deo gracias Amen. Si sapiens fore vis sex serues que tibi mando <lb /> Quid dicas. et vbi. de quo. cui. quomodo. quando. <lb /> Vinum scriptori det <persName key="">Petrus de meliori</persName>. Nomen scriptoris. <persName role="scr" key="">Guillelmus plenus Amoris</persName>. <locus from="278r" to="278r">Fol. 278<hi rend="superscript">r</hi></locus></finalRubric>
+                        <author key="person_88881722" role="aut">Justinian</author>
+                        <author key="person_102317020" role="wac">Accursius</author>
+                     <title key="work_2890">Infortiatum</title>
+                     <note>
+                        <p><bibl type="edition">Justinian, <title>Inforciatum</title>, ed. Mommsen, CIC i. 356-634</bibl>.</p>
+                        <p>For early editions see <bibl>Hain 9560-78</bibl>. For the gloss, early editions, and sources on Accursius see <ref target="#All_Souls_College_MS_49-item-4">MS 49, item 4</ref>. For the colophon see <bibl>Walther, <title>Initia</title>, 17963</bibl>.</p>
+                     </note>
+                     <note>
+                        The excision of the first six leaves of quire 18 caused the loss of text <locus from="207v" to="208r">between fols. 207 and 208</locus>, from <locus from="207v" to="207v">fol. 207</locus> <quote>extimanda erunt</quote>, in the middle of <hi rend="italic">§ Corpora, l. In lege falcidia. tit. ad legem falcidiam</hi> (<bibl>Digest, XXXV-ii. 62, 1</bibl>) to <quote>citum seu pretextu metus</quote> in the middle of <hi rend="italic">§ Sublata, l. l. tit. ad Senatus Consultum Trabellianum</hi> (<bibl>Digest XXXVI-i. 1, 3</bibl>).
+                     </note>
+                     <note>      
+                        The extensive added, non-Accursian, gloss, frequently accompanied by the <hi rend="italic">siglum</hi> <quote>E.</quote> or <quote>Eg.</quote> and sometimes signed <quote>Ego</quote>, has been identified by <bibl>Robert Feenstra, <title>Fourteenth Century Orléans Glosses in an Oxford Manuscript of the Infortiatum: Gilles Bellemère as a Romanist</title>, Index: International Survey of Roman Law, 22 (1994), 481-509</bibl>, as being in the hand of <persName role="ann wac" key="">Gilles de Bellemère</persName>, who early in his career, <date when="1366" cert="low">c.1366</date>, taught civil law at <placeName key="place_2989317">Orléans</placeName>; on him see H. Gilles in <bibl><title>Bibliothèque de l'École des chartes</title>, 124 (1966), 30-136 and 382-431</bibl>, and in <bibl><title>Hist. litt. de la France</title>, xl (1974), 211-81</bibl>.
+                     </note>
                   </msItem>
                </msContents>
                <physDesc>
                   <p>
-                     <secFol><!--todo--></secFol>
+                     <secFol><note>[text]</note> ro eius</secFol>
+                     <secFol><note>[gloss]</note> quod raro.</secFol>
                   </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
+                  <p>Fore- and endleaves: <locus from="ir" to="ir">fol. i<hi rend="superscript">r</hi></locus>, number; <locus from="iv" to="iv">fol. i<hi rend="superscript">v</hi></locus>, title; <locus from="Ir" to="Iv">fol. I</locus>, blank.</p>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support><!--todo--></support>
+                        <support>Written on 278 leaves of good-quality membrane preceded by one membrane flyleaf and followed by another.</support>
                         <extent>
-                           <measure type="leaf"><!--todo--></measure>
+                           <measure type="leaf" quantity="278">278 + i + I leaves</measure>
                            <dimensions type="leaf" unit="mm">
-                              <height><!--todo--></height>
-                              <width><!--todo--></width>
+                              <height quantity="355">355</height>
+                              <width quantity="285">285</width>
                            </dimensions>
                         </extent>
-                        <foliation><!--todo--></foliation>
-                        <collation><!--todo--></collation>
-                        <condition><!--todo--></condition>
+                        <collation>
+                           <formula>1<hi rend="superscript">10</hi> 2<hi rend="superscript">12</hi> 3<hi rend="superscript">12</hi> (10<hi rend="superscript">1</hi> + one) 4<hi rend="superscript">12</hi> 5<hi rend="superscript">6</hi> || 6-8<hi rend="superscript">12</hi> 9<hi rend="superscript">4</hi> 10<hi rend="superscript">10</hi> (wants 10, blank)||11-16<hi rend="superscript">12</hi> 17<hi rend="superscript">10</hi> 18<hi rend="superscript">12</hi> (1 + one) 19<hi rend="superscript">12</hi> 20<hi rend="superscript">12</hi> (wants 1-6) 21<hi rend="superscript">12</hi> 22<hi rend="superscript">4</hi> (4 + one) 23-26<hi rend="superscript">12</hi>.</formula>
+                           <signatures>Several series of quire signatures are detectable; on quire 3 are small red +, +i, +ij, etc. to +v; on quire 4 small red a, aj, aij-avj, and this series runs as far as o in quire 21 (fols. <locus from="183r" to="183v">183</locus> and <locus from="230r" to="230v">230</locus>, added leaves, are signed pdd in red).</signatures>
+                           <catchwords>Catchwords, nearly all written by the scribe of the text, are on most final versos of quires, often enclosed in a green or green-washed box but sometimes in a box drawn in ink. In a cursive script on <locus from="124v" to="124v">fol. 124<hi rend="superscript">v</hi></locus>, almost trimmed off,are <quote>post I<gap /></quote> and tiny traces of a similar inscription are on fols. <locus from="136v" to="136v">136<hi rend="superscript">v</hi></locus> and <locus from="148v" to="148v">148<hi rend="superscript">v</hi></locus>, all of which are final leaves of quires.</catchwords>
+                        </collation>
                      </supportDesc>
                      <layoutDesc>
-                        <layout/>
+                        <layout columns="2" rulingMedium="crayon">The central area of text, written in two columns, each 55-60 mm wide, is of variable height. The gloss, written on all sides of the text, runs to c.100 lines on a full page. The leaves are trimmed and only prickings for vertical rulings remain. Ruling is in pencil and crayon. Two lines of gloss correspond to one line of text. Folding is FSOS.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote><!--todo--></handNote>
+                     <handNote script="textualisSouthern">Gothic rotunda bookhand by several scribes. As in MSS <ref target="#All_Souls_College_MS_50">50</ref> and <ref target="#All_Souls_College_MS_52">52</ref> the scribes filled up blank lines, and vacant lines at the bottoms of columns of the gloss, with minims or nonsense words. Sometimes these lines are coloured, with decorated scrolls between them. Of the participating scribes the best are at the beginning of the volume. Some, e.g.on <locus from="214r" to="217v">fols. 214<hi rend="superscript">r</hi>-217<hi rend="superscript">vb</hi> (quire 21)</locus>, were not very accomplished (but the fact that the Accursian gloss on <locus from="223r" to="223r">fol. 223<hi rend="superscript">rb</hi></locus> lags behind its text on <locus from="220v" to="220v">fol. 220<hi rend="superscript">va</hi></locus> is not due to the writer of that piece of text but is the fault of the writer of the gloss). Punctuation is by low point.</handNote>
+                     <handNote script="textualisSouthern">The script of the Accursian gloss and that of the text are essentially the same apart from size, no distinctions in letter-forms being detectable, but it is much better written, being largely the work of the scribe <persName key="">Guillelmus</persName>, who puts his name at the end.</handNote> 
+                      <handNote script="cursiva">The added, non-Accursian, gloss is in gothic cursive, rather variable but apparently all in the hand of <persName key="">Gilles de Bellemère</persName>.</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote><!--todo--></decoNote>
+                     <decoNote>Decorated in France.</decoNote>
+                     <decoNote type="miniature">Twelve miniatures have been excised, from fols. <locus from="1r" to="1r">1<hi rend="superscript">r</hi></locus>, <locus from="10r" to="10r">10<hi rend="superscript">r</hi></locus>, <locus from="37r" to="37r">37<hi rend="superscript">r</hi></locus>, <locus from="52r" to="52r">52<hi rend="superscript">r</hi></locus>, <locus from="80v" to="80v">80<hi rend="superscript">v</hi></locus>, <locus  from="101r" to="101r">101<hi rend="superscript">r</hi></locus>, <locus from="119r" to="119r">119<hi rend="superscript">r</hi></locus>, <locus from="135v" to="135v">135<hi rend="superscript">v</hi></locus>, <locus from="170v" to="170v">170<hi rend="superscript">v</hi></locus>, <locus from="190v" to="190v">190<hi rend="superscript">v</hi></locus>, <locus from="231r" to="231r">231<hi rend="superscript">r</hi></locus>, and <locus from="256r" to="256r">256<hi rend="superscript">r</hi></locus>, leaving in most cases an illuminated border, as on fols. <locus from="80v" to="80v">80<hi rend="superscript">v</hi></locus>, <locus from="101r" to="101r">101<hi rend="superscript">r</hi></locus>, <locus from="135v" to="135v">135<hi rend="superscript">v</hi></locus>, <locus from="170v" to="170v">170<hi rend="superscript">v</hi></locus>, <locus from="190v" to="190v">190<hi rend="superscript">v</hi></locus>, <locus from="231r" to="231r">231<hi rend="superscript">r</hi></locus>. A fifteenth miniature will have been lost from the beginning of bk. XXXVI, on the last of the leaves excised between fols. 207 and 208. Two fine miniatures remain: <locus from="18r" to="18r">fol. 18<hi rend="superscript">r</hi></locus>, bk. XXVI, <title>De tutelis</title>, Justinian, enthroned, expounding to three standing men; <locus from="151v" to="151v">fol. 151<hi rend="superscript">v</hi></locus>, bk. XXXIII, <title>De annuis legatis</title>, Justinian enthroned, expounding to two men disputing(?) over objects in a basket(?) The surviving miniatures are by a painter who worked in Paris <date from="1320" to="1350">c.1320-50</date> whose hand appears in <bibl>Paris, BN, mss. fr. 185, 22548, and 24388</bibl> among others. For this illuminator and scribe see <bibl>M. A. Rouse and R. H. Rouse, <title>Book Producers and Book Production in Paris 1200-1500</title> (Lyell Lectures in Bibliography, Oxford, 1992)</bibl>.</decoNote>
+                     <decoNote type="border">On <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus> are two illuminated borders, one with three coats of arms; on <locus from="37r" to="37r">fol. 37<hi rend="superscript">r</hi></locus> is one with two coats of arms; on <locus from="52r" to="52r">fol. 52<hi rend="superscript">r</hi></locus> is one with two trumpeters and two jousting knights carrying shields with coats of arms; on <locus from="101r" to="101r">fol. 101<hi rend="superscript">r</hi></locus> is one with a crowned grotesque carrying a shield with coat of arms; and on <locus from="256r" to="256r">fol. 256<hi rend="superscript">r</hi></locus> is one with two figures holding coats of arms. All the coats of arms have been painted over or have oxydized and are not clearly recognizable; they appear to be a blue stocking on a sable or argent shield but have not been found in <bibl>J. B. Rietstap, <title>Armorial général</title>, 2 vols. (London, 1965, repr. of 2nd edn., Gouda, 1884, 1887, and Plates, 6 vols., London, 1967)</bibl>. All are part of the original decoration (with the possible but unlikely exception of the arms on <locus from="37r" to="37r">fol. 37<hi rend="superscript">r</hi></locus>,which could have been added).</decoNote>
+                     <decoNote type="drawing">A grisaille drawing of a grotesque with a mitre and crozier and animal legs on <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus> is part of the original decoration, <date notBefore="1400" notAfter="1500">s. xv</date>.</decoNote>
+                     <decoNote type="initial">Good lombards, also French, mostly two-line and three/six-line illuminated initials in text and gloss, sometimes extended into margins.</decoNote>
+                     <decoNote type="rubrication">Rubrics, red and blue paraphs and running numbers.</decoNote>
+                     <decoNote type="other">Green and yellow colouring of flourishing, linefillers, and the boxes surrounding some catchwords, and the stroking of some letters in green, are later additions.</decoNote>
+                     <decoNote><bibl>Alexander and Temple, no. 737</bibl> (pl. XLIII no. 737 repr. detail fol. 152, reduced)</decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <binding>
-                        <p><!--todo--></p>
+                     <binding contemporary="false" notBefore="1438">
+                        <p>Sewn on five bands between chamfered <material>oak boards</material> covered with <material>alum-tawed sheepskin</material>. Rebinding led to the trimming of some marginalia. On the spine is a black leather lozenge-shaped label with <quote>I</quote> on it. On the front cover are the remains of two straps, each held by five of the usual nails, and two-thirds of the way up the edge are two holes from a chain-plate (position 6). On the back cover are two clasps of the usual design, each held by three nails ofthe usual type, and near the bottom of the outer edge are two holes from a chain-plate (position 5). The endbands are blue and white and edges are yellowed.
+                        </p>
                      </binding>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notAfter="" notBefore=""><!--todo--></origDate>
-                     <origPlace>
-                        <country key=""><!--todo--></country>
+                     <origDate calendar="Gregorian" notAfter="1375" notBefore="1325">s. xiv<hi rend="superscript">med</hi></origDate>
+                     <origPlace key="place_7008038">Paris (?), 
+                        <country key="place_1000070">France</country>
                      </origPlace>
+                     <p>Written and illuminated in France, almost certainly in Paris, presumably for the owner whose arms appear in the illuminations.</p>
                   </origin>
-                  <provenance><!--todo--></provenance>
+                  <provenance>Later (presumably) in the possession of <persName key="" role="fmo">Gilles de Bellemère</persName> in <placeName key="place_2989317">Orléans</placeName> in the <date from="1360" to="1369">1360s</date>.</provenance>
+                  <provenance>At All Souls <date notBefore="1438">not long after its foundation</date>: <bibl>Ker, <title>All Souls</title>, List II, no. 259</bibl>, with <quote>Libri iuris ciuilis cath</quote>. At the top of <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus> is ex libris style 2, <quote>Liber Collegii Omnium Animarum Fidelium Defunctorum de Oxon'</quote>. All Souls library identifications are, inside the front cover, <quote>vv.2. infra 1</quote> and <quote>ww:1:<unclear>2</unclear></quote>, both deleted, <quote>MS.51</quote>, <quote>148</quote> (pencil), and bookplate no. 8, on which is <quote>L.R. 6.b.5</quote> (pencil); on <locus from="ir" to="ir">fol. i<hi rend="superscript">r</hi></locus> are <quote>1-18</quote> and <quote>2..18</quote> (both in pencil). On <locus from="iv" to="iv">fol. i<hi rend="superscript">v</hi></locus> is a title of <date notBefore="1700" notAfter="1800">s. xviii</date>.</provenance>
                </history>
                <additional>
                   <adminInfo>
@@ -113,7 +141,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2024">First online publication.</change>
+         <change when="2025">First online publication.</change>
       </revisionDesc>
    </teiHeader>
    <text>
