@@ -123,6 +123,13 @@
                                                   <email>library@all-souls.ox.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
+                  <surrogates>
+                        <bibl type="digital-facsimile" subtype="full">
+                           <ref target="https://library.asc.ox.ac.uk/manuscripts/ms_31.php">
+                              <title>All Souls College Library</title></ref>
+                           <note>(full digital facsimile)</note>
+                        </bibl>
+                     </surrogates>
                </additional>
                <msPart xml:id="All_Souls_College_MS_31-part1">
                   <msIdentifier>
@@ -481,7 +488,7 @@
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2024">First online publication.</change>
+         <change when="2025">First online publication.</change>
       </revisionDesc>
    </teiHeader>
    <text>
