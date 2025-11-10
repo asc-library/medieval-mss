@@ -74,7 +74,7 @@
                      <supportDesc material="perg">
                         <support>Written on 278 leaves of good-quality membrane preceded by one membrane flyleaf and followed by another.</support>
                         <extent>
-                           <measure type="leaf" quantity="278">278 + i + I leaves</measure>
+                           <measure type="leaf" quantity="280">i + 278 + I leaves</measure>
                            <dimensions type="leaf" unit="mm">
                               <height quantity="355">355</height>
                               <width quantity="285">285</width>
