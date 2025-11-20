@@ -12,8 +12,8 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2023">Encoding</resp>
-               <persName><!--todo--></persName>
+               <resp when="2025">Encoding</resp>
+               <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -35,173 +35,200 @@
                   <repository>All Souls College</repository>
                   <idno type="shelfmark">All Souls College MS. 55</idno>
                   <!--ARKS to be added-->
+                  <altIdentifier>
+                     <idno type="shelfmark">LR 2.e.3</idno>
+                  </altIdentifier>
                </msIdentifier>
+               <head>Azo, <hi rend="italic">Summa codicis</hi>; Hugolinus de Presbiteris, <hi rend="italic">Summulae</hi>; Roffredus Beneventanus, <hi rend="italic">De ordine iudiciorum</hi></head>
+               <msContents>
+                  <p>Fore- and endleaves: <locus from="ir" to="iv">fol. i<hi rend="superscript">rv</hi></locus>, blank; <locus from="iir" to="iir">fol. ii<hi rend="superscript">r</hi></locus>, number; <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus>, pressmarks, <hi rend="italic">ex libris</hi>, etc.; <locus from="iiir" to="iiiv">fol. iii<hi rend="superscript">r</hi></locus>, bookplate, <hi rend="italic">cautiones</hi>; <locus from="iiiv" to="iiiv">fol. iii<hi rend="superscript">v</hi></locus>, inscriptions; <locus from="ivr" to="ivr">fol. iv<hi rend="superscript">r</hi></locus>, verses (see <ref target="#All_Souls_College_MS_55-partA">A below</ref>); <locus from="ivv" to="ivv">fol. iv<hi rend="superscript">v</hi></locus>, blank; <locus from="vr" to="vr">fol. v<hi rend="superscript">r</hi></locus>, capitula; <locus from="vv" to="vv">fol. v<hi rend="superscript">v</hi></locus>, inscriptions; <locus from="Ir" to="Iv">fol. I<hi rend="superscript">rv</hi></locus>, blank.</p>
+               </msContents>
                <physDesc>
-                  <p>
-                     <secFol><!--todo--></secFol>
-                  </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
+                  <p>Originally two manuscripts, dividing at quires 17/18. <locus from="164v" to="165r">Fols. 164<hi rend="superscript">v</hi> and 165<hi rend="superscript">v</hi></locus> show signs of having been unprotected last and first leaves respectively and a series of wormholes does not include fol. 164 but runs from <locus from="165r">fol. 165</locus>.</p>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
-                        <support><!--todo--></support>
+                        <support>Written on 348 leaves of membrane prepared in the Italian fashion <locus from="1r" to="330v">to fol. 330</locus> and 18 leaves of English membrane, preceded by two paper flyleaves <locus from="ir" to="iiv">(fols. i, ii)</locus> of <date notBefore="1700" notAfter="1800">s. xviii</date> with the original membrane pastedown stuck to <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus>, and three original membrane flyleaves <locus from="iiir" to="vv">(fols. iii-v)</locus> and one paper flyleaf.</support>
                         <extent>
-                           <measure type="leaf"><!--todo--></measure>
+                           <measure type="leaf" quantity="354">v + 348 + I</measure>
                            <dimensions type="leaf" unit="mm">
-                              <height><!--todo--></height>
-                              <width><!--todo--></width>
+                              <height quantity="385">385</height>
+                              <width quantity="225">225</width>
                            </dimensions>
                         </extent>
-                        <foliation><!--todo--></foliation>
-                        <collation><!--todo--></collation>
-                        <condition><!--todo--></condition>
+                        <collation>
+                           <formula>1-7<hi rend="superscript">10</hi> 8<hi rend="superscript">10</hi> (wants 10) 9-13<hi rend="superscript">10</hi> 14<hi rend="superscript">8</hi> (wants 8, blank) 15-16<hi rend="superscript">10</hi> 17<hi rend="superscript">10</hi> (wants 9-10) || 18-25<hi rend="superscript">10</hi> 26<hi rend="superscript">8</hi> (wants 1, 8) 27-33<hi rend="superscript">10</hi> 34<hi rend="superscript">10</hi> (wants 10, blank) 35<hi rend="superscript">8</hi> 35<hi rend="superscript">8</hi> 36<hi rend="superscript">10</hi></formula>
+                           <signatures><locus from="1r" to="70v">Fols. 1-70 (quires 1-8)</locus> have remains of a series of quire signatures .ij.-.viij.; <locus from="80r" to="136v">fols. 80-136 (quires 9-14)</locus> have quire signatures .a.-.e.; in <locus from="165r" to="174v">quire 18 (fols. 165-74)</locus> are rough crayon quire signatures [O/]-O/////.</signatures>
+                        </collation>
+                        <condition>The tops of many leaves between about <locus from="140r" to="330v">fols. 140 and 330</locus> show some damage by damp but only around <locus from="225r" to="229v">fols. 225-9</locus> does it extend far down the page and it causes no loss of text.</condition>
                      </supportDesc>
                   </objectDesc>
+                  <decoDesc>
+                     <decoNote><bibl>Alexander and Temple, no. 889 (pl. LXII no. 889 repr. detail fol. 1<hi rend="superscript">r</hi>)</bibl> ascribe to <placeName key="place_7003085">Padua</placeName>, but on the basis of the striking marginal qrotesques (see our Pl. 3a, b) more probably to be ascribed to <placeName key="place_7004847">Bologna</placeName>: see <bibl>Paris, Bibliothèque nationale, Centre de recherche sur les manuscrits enluminés, <title>Manuscrits enluminés d'origine italienne</title>, ed. F. Avril and M.-Th. Gousset, 2 vols. (Paris, 1984), ii, pls. XL-XLIV, especially XLIV no. 93 (Bibliothèque nationale, MS lat. 16896) and pp. 63 et seq., 'Manuscrits Bolonais'</bibl>, for this type of decoration, mostly found in legal manuscripts.</decoNote>
+                     <decoNote type="marginal">The fine marginal grotesques (excised on fols. <locus from="47r" to="47v">47</locus> and <locus from="96r" to="96v">96</locus>) consist of human figures, and elegant red-and-blue animals usually emitting streams of red-and-blue fire or smoke from their mouths.</decoNote>
+                     <decoNote type="rubrication">Rubrics, blue and red paraphs, also q for <foreign rend="italic">quescio</foreign>, <quote>po. rei</quote>, <quote>p. occ</quote>, and <quote>libellus</quote>.</decoNote>
+                     </decoDesc>
                   <bindingDesc>
-                     <binding>
-                        <p><!--todo--></p>
+                     <binding notAfter="1951" notBefore="1700">
+                        <p>Sewn on five bands between square-edged <material>pasteboards</material> covered with red <material>leather</material> (<date notBefore="1700" notAfter="1800">s. xviii</date>), rebacked. The old spine is stuck to the front pastedown. <quote>Repaired by Maltby, May 1951</quote> on pastedown. Edges are yellowed. The small All Souls gold-stamped arms are on the covers.</p>
                      </binding>
                   </bindingDesc>
                </physDesc>
                <history>
-                  <provenance><!--todo--></provenance>
+                  <origin>
+                     <origDate notBefore="1225" notAfter="1275" calendar="Gregorian" cert="low">s. xiii<hi rend="superscript">med?</hi></origDate>
+                     <origPlace key="place_7004847">
+                        Bologna(?), <country key="place_1000080">Italy</country>
+                     </origPlace>
+                     <p>On art-historical grounds probably of Bolognese origin and, although originally two manuscripts and containing differences in decoration, probably from one workshop.</p>
+                  </origin>
+                  <provenance>
+                     <p>At the top of <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus> is <quote>Mestre Gian de <unclear>chuner</unclear> per sei lib. venti de di genaio sa d'</quote>: cf. also <locus from="vv" to="vv">fol. v<hi rend="superscript">v</hi></locus> <quote>Mastro Gianj attanpes? <gap /> luglo b'</quote>.</p>
+                     <p>Anglicana annotations etc. show that the book was in use in <placeName key="place_7002445">England</placeName> <date notBefore="1300" notAfter="1400">in s. xiv</date>, and on <locus from="iiir" to="iiir">fol. iii<hi rend="superscript">r</hi></locus> are <placeName key="place_7011931">Oxford</placeName> <foreign>cautiones</foreign> of <date notBefore="1300" notAfter="1400">s. xiv</date>, <quote>Caucio Johannis <gap /></quote> and <quote>Caucio <gap /> de <gap /> exposita in Cista Regine pro <gap /> sl' <date when="1312-10-01" calendar="Julian">die lune proxime post festum sancti michaelis anno <unclear>m</unclear> ccc <unclear>xij</unclear></date></quote>. Another totally erased cautio is below. On <locus from="iiiv" to="iiiv">fol. iii<hi rend="superscript">v</hi></locus>, top left, in an English(?) hand of <date notBefore="1300" notAfter="1400">s. xiv</date>, is <quote>xvj. quinterni uel sexterni</quote>, also, erased, a cautio of <quote>Johannes de <gap />n in cista <gap /></quote> and other notes in English and Italian hands of <date notBefore="1300" notAfter="1400">s. xiv</date>, some erased.</p>
+                     <p>On <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus> are <quote>Liber <persName role="fmo" key="person_4558">Magistri Johannis lyndefeld</persName> Archidiaconi Cicestriensis titulo empcionis</quote> and <quote>Liber Johannis <gap />.</quote> On Lyndefeld see <bibl>BRUO</bibl>: he died in <date when="1440">1440</date>, bequeathing, probably through Abp. Chichele, his better books on canon and civil law to the value of £20 to All Souls.</p>
+                     <p><bibl>Ker, All Souls, List II, no. 266</bibl>, with <quote>Libri iuris ciuilis cath</quote>.</p>
+                     <p>All Souls library identifications, on which see Introduction, are, on the pastedown, <quote>vv.2.4</quote> (deleted), <quote>M.S.55</quote> (figure added), and <quote>126</quote> (pencil); on <locus from="iir" to="iir">fol. ii<hi rend="superscript">r</hi></locus> are <quote>5..3</quote> and <quote>ww.3.8</quote> (deleted); on <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus> are <quote>w.w:3:8</quote> (not deleted), <quote>55.</quote> <quote><unclear>P</unclear></quote>, and <quote>L.R. 2.e.3</quote> (pencil); on <locus from="iiir" to="iiir">fol. iii<hi rend="superscript">r</hi></locus>, bookplate no. 8.</p>
+                  </provenance>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
                         <source>Andrew G. Watson, <title>A Descriptive
-                                                  Catalogue of the Medieval Manuscripts of All Souls
-                                                  College Oxford</title> (Oxford, 1997)</source>
+                                                  Catalogue of the Medieval Manuscripts of All Souls College Oxford</title> (Oxford, 1997)</source>
                      </recordHist>
                      <availability>
-                        <p>For enquiries relating to this manuscript please
-                                                  contact
-                                                  <email>library@all-souls.ox.ac.uk</email>.</p>
+                        <p>For enquiries relating to this manuscript please contact                                                 <email>library@all-souls.ox.ac.uk</email>.</p>
                      </availability>
                   </adminInfo>
                </additional>
-               <msPart xml:id="All_Souls_College_MS_55-part1">
+               <msPart xml:id="All_Souls_College_MS_55-partA">
                   <msIdentifier>
                      <altIdentifier>
-                        <idno>All Souls College MS. 55, part
-                                                  <!--todo--></idno>
+                        <idno>All Souls College MS. 55, part A</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_55-part1-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                     <msItem n="1" xml:id="All_Souls_College_MS_55-partA-item1">
+                        <incipit><add>Incipit prohemium domini Azonis super libro Codicum.</add> Cum post inuentionem sciencie superuenerit gracie plenitudo <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus></incipit>
+                        <explicit>eam petere a patre. ut. J. e. l. ult'. <locus from="136v" to="136v">fol. 136<hi rend="superscript">v</hi></locus></explicit>
+                        <finalRubric>Explicit summa Codicis domini Azonis.  <locus from="136v" to="136v">fol. 136<hi rend="superscript">v</hi></locus></finalRubric>
+                        <author key="person_15570998">Azo</author>
+                        <title key="work_863">Summa codicis I-X</title>
+                        <note>
+                           <p>For early editions see <bibl>Hain 2231-6 (Speyer, 1483, GW 3144, Hain/Copinger 2231, etc.)</bibl>. Ours is one of eleven manuscripts in which the <title>Summa</title> is found in a greatly expanded form with the text increased to include twenty-eight titles, two of the <title>Digestum vetus</title>, two of the <title>Digestum novum</title>, and twenty-four of the <title>Inforciatum</title>: see <bibl>P. Weimar, <title><title>Zur Entstehung der Azoschen Digestensumme</title>, Satura Roberto Feenstra oblata</title>, ed. J. A. Ankum, J. E. Spruit, and F. B. J. Wubbe (Fribourg, 1985), 371-92 at 376</bibl>.</p>
+                           <p>Owing to the loss of the original third quire, there is a gap in the text <locus from="20v" to="21r">between fols. 20 and 21</locus>, the former ending in bk. 2 <quote>hoc ipso</quote>, <bibl>Basel 1563 edn. col. 134, section 8, line 2</bibl>, and the latter beginning in bk. 3 <quote><supplied>admi</supplied>ttuntur</quote>, <bibl>edn. col. 200, section 11, line 14</bibl>.</p>
+                           <p>The heading <quote>Incipit prohemium <gap /> Codicum</quote> is in an anglicana hand of <date notBefore="1375" notAfter="1400">s. xiv<hi rend="superscript">ex</hi></date>. Also on <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus>, in the Italian hand that wrote <quote>Summa Azonis</quote> before the text, is <quote>Bulgorus os auri martinus copia legum. <lb /> Est hugo meus legis azo subtilior illis. <lb /> Hoc opus magnum sine accurcio non ualet agnum. <lb /> <note>[and added in the same hand]</note> Hoc opus magnum <sic>accurs</sic> sine non ualet agnum.</quote></p>
+                           <p>On <locus from="ivr" to="ivr">fol. iv<hi rend="superscript">r</hi></locus> are fifty-five lines of verse in an anglicana formata hand of <date notBefore="1325" notAfter="1350">s. xiv<hi rend="superscript">2/4</hi></date> beginning <quote>Quisquis uultis bene fare <lb /> Multum debet hic pensare <lb /> Ne quid stultum sic narrare <lb /> Set valde prudentia</quote> and ending <quote>Omnis ergo deprecare <lb /> Ut quid deus sibi dare <lb /> Bonum uitam post prestare <lb /> Sempiternum.</quote></p>
+                        </note>
                      </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_55-part1-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                     <msItem n="2" xml:id="All_Souls_College_MS_55-partA-item2">
+                        <rubric>Azonis jncipit prohemium ad summam Institutionum <locus from="137r" to="137r">fol. 137<hi rend="superscript">r</hi></locus></rubric>
+                        <incipit>Quasimodo geniti pueri <locus from="137r" to="137r">fol. 137<hi rend="superscript">r</hi></locus></incipit>
+                        <explicit>in consonantiam luculentam <locus from="152v" to="152v">fol. 152<hi rend="superscript">v</hi></locus></explicit>
+                        <finalRubric>Azonis supers Institutionum seu elementorum libro summa composita explicit. <locus from="152v" to="152v">fol. 152<hi rend="superscript">v</hi></locus></finalRubric>
+                        <author key="person_15570998">Azo</author>
+                        <title key="work_864">Summa institutionum</title>
+                        <note>
+                           For early editions see <ref target="#All_Souls_College_MS_55-partA-item1">item 1 above</ref>.
+                        </note>
                      </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_55-part1-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                     <msItem n="3" xml:id="All_Souls_College_MS_55-partA-item3">
+                        <rubric>Incipit materia ad pandectam secundum Jo. b. Rubrica. <locus from="153r" to="153r">fol. 153<hi rend="superscript">r</hi></locus></rubric>
+                        <incipit>In nomine patris et filij et spiritus sancti amen. Principium omnium rerum est  <locus from="153r" to="153r">fol. 153<hi rend="superscript">r</hi></locus></incipit>
+                        <explicit>Item ratione etatis ut in hoc .t. quisquis nec. h. <locus from="164v" to="164v">fol. 164<hi rend="superscript">v</hi></locus></explicit>
+                        <finalRubric><add>Explicit Summa Jo. B. super quibusdam titulis digestorum.</add> <locus from="164v" to="164v">fol. 164<hi rend="superscript">v</hi></locus></finalRubric>
+                        <author key="person_415144782738450825739">Hugolinus de Presbiteris</author>
+                        <title key="work_5498">Summulae digestorum</title>
+                        <note>
+                           <p><bibl type="edition">pr. with Azo, Pavia, 1482 (Hain 2231, GW 3144)</bibl>, <bibl type="edition">Venice, 1489 (Hain *2236)</bibl>, etc.</p>
+                           <p>On the text see <bibl>Savigny, v.55-7</bibl> and for a list of the titles <bibl>Weimar, <title>zur Entstehung</title>, 389-90</bibl>. Ours is one of many manuscripts in which the work is ascribed to <persName role="att" key="person_15126712">Joannes Bassianus</persName>: see <bibl>Dolezalek, iii, <title>Auctores</title></bibl> under that name.</p>
+                           <p>The explicit is in an anglicana hand of <date notBefore="1400" notAfter="1425">s. xv<hi rend="superscript">in</hi></date>.</p>
+                        </note>
+                        <note>Dolezalek et al. (<bibl><ref target="https://manuscripts.rg.mpg.de/manuscript/6300/"><title>Manuscripta juridica</title></ref></bibl>) breaks this item down further, attributing <sic><locus from="156r" to="163v">fols. 156<hi rend="superscript">r</hi>-163<hi rend="superscript">va</hi></locus></sic> to <persName key="person_15570998">Azo</persName> and <locus from="163v" to="167v">fols. 163<hi rend="superscript">va</hi>-167<hi rend="superscript">va</hi></locus> to Hugolinus.</note>
                      </msItem>
                   </msContents>
-                  <physDesc>
+                  <physDesc>    
+                     <p>
+                        <secFol>de heriticis</secFol>
+                     </p>
                      <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
+                        <supportDesc material="perg">
+                           <collation>
+                              <catchwords>Extensive remains of catchwords, usually by the scribe of the text and usually enclosed in a box, often decorated in red.</catchwords>
+                           </collation>
                         </supportDesc>
                         <layoutDesc>
-                           <layout><!--todo--></layout>
+                           <layout columns="2" writtenLines="72">Written in two columns, each <dimensions unit="mm" type="written"><height quantity="255">255</height> <width quantity="73">>73</width></dimensions> mm, 72 lines. Pricking is almost entirely trimmed off but it can be seen to have been in outer margins and for verticals. Very faint hardpoint ruling. Folded FSOS.</layout>
                         </layoutDesc>
                      </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
+                     <handDesc hands="1" cert="low">
+                        <handNote script="gothicoAntiqua">Italian gothic bookhand (not rotunda), perhaps by one scribe. Punctuated by low point.</handNote>
                      </handDesc>
                      <decoDesc>
-                        <decoNote><!--todo--></decoNote>
+                        <decoNote type="histInit">lluminated historiated initial on fols. <locus from="1r" to="1r">1<hi rend="superscript">r</hi></locus> (a man reading) and <locus from="137r" to="137r">137<hi rend="superscript">r</hi></locus> (a recumbent man) and a few non-historiated elsewhere.</decoNote>
+                        <decoNote type="flourInit">Red and blue lombards, flourished in the other colour, with guide letters in margins.</decoNote>
+                        <decoNote type="instructions">In the margin of <locus from="144v" to="144v">fol. 144<hi rend="superscript">v</hi></locus>, <quote>aurum</quote> is written in large letters in crayon opposite a gold initial and on <locus from="34v" to="34v">fol. 34<hi rend="superscript">v</hi></locus> <quote>aur<gap /></quote> is found in the same position.</decoNote>                      
                      </decoDesc>
                   </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
                </msPart>
-               <msPart xml:id="All_Souls_College_MS_55-part2">
+               <msPart xml:id="All_Souls_College_MS_55-partB">
                   <msIdentifier>
                      <altIdentifier>
                         <idno>All Souls College MS. 55, part
-                                                  <!--todo--></idno>
+                                                  B</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_55-part2-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                     <msItem n="1" xml:id="All_Souls_College_MS_55-partB-item1">
+                        <rubric>Incipit libellus de ordine iudiciorum compositus. a Rofredo Beneuentano iuris ciuilis professore. in quo operе continetur qualiter concipiantur libelli et fiant confessiones et de natura cuiuslibet actionis poterunt studentes jnuenire vnde incipit proemium. <locus from="165r" to="165r">fol. 165<hi rend="superscript">r</hi></locus></rubric>
+                        <incipit>Si considerarem ingenium. et sciencie mee proprie facultatem non essem <locus from="165r" to="165r">fol. 165<hi rend="superscript">r</hi></locus></incipit>
+                        <quote>iudicii pertractare.</quote>
+                        <rubric>Incipit materia omnium Rubricarum usque ad libellos que fient super quilibet actionibus. Rubrica. </rubric>
+                        <quote>Tractaturus ergo de libellis</quote>
+                        <explicit>iuste precipiat. alias auctoritas <locus from="348v" to="348v">fol. 348<hi rend="superscript">v</hi></locus></explicit>
+                        <author key="person_207783919">Roffredus Epiphanii Beneventanus</author>
+                        <title key="work_5528">Summa de ordine judiciorum.</title>
+                        <note>
+                           <p><bibl type="edition">Pr. Avignon, <date when="1500">1500</date></bibl>.</p>
+                           <p>On Roffredus see <bibl>Savigny, v. 184-217</bibl>, on this work <bibl>199-204</bibl>. For other manuscripts see <bibl>Dolezalek, iii, 'Auctores'</bibl>, and, for a fragment, <ref target="#All_Souls_College_MS_37">MS 37</ref>.</p>
+                        </note>
+                        <note>
+                           <p>Through the loss of one leaf, the text breaks abruptly <locus from="251v" to="252r">at the bottom of fol. 251<hi rend="superscript">v</hi></locus>, <quote>quando stetit per casum fortuitum agitur ut pro ra<supplied>ta</supplied></quote> (edn. fol. lxxviii<hi rend="superscript">ra</hi>/55) with the loss of fifty-one lines of the printed text and about the same of manuscript text, and continues on <locus from="252r" to="252r">fol. 252<hi rend="superscript">r</hi></locus> after the rubric <quote>Si conductor recipit in se periculum rei conducte. tenetur actione honeris aduersi</quote> <quote>Contigit sepe quod conductor </quote> (edn. fol. lxxviii<hi rend="superscript">rb</hi>/32). The text again ends abruptly at <locus from="330v" to="330v">fol. 330<hi rend="superscript">v</hi></locus>, after which the last leaf of quire 34 is lost, and is continued in an English hand on English membrane to <locus from="348v" to="348v">fol. 348<hi rend="superscript">v</hi></locus> where it ends imperfectly as above (edn. fol. clxiiii<hi rend="superscript">rb</hi>/65), with the loss of about three hundred lines of both printed text and manuscript. The English-written section effects an almost perfect join with the Italian part and was probably written with that intention: the only fault is the implied repetition of part of the last word on <locus from="330v" to="330v">fol. 330<hi rend="superscript">v</hi></locus>, <quote>si<supplied>ne</supplied></quote>, by the abbreviated form <quote>sn</quote> that begins <locus from="331r" to="331r">fol. 331<hi rend="superscript">r</hi></locus></p>
+                        </note>
                      </msItem>
                   </msContents>
                   <physDesc>
+                     <p>
+                        <secFol>tunc potest</secFol>
+                     </p>
                      <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
+                        <supportDesc material="perg">
+                           <collation>
+                              <catchwords>
+                                 At the bottom left of <locus from="214v" to="214v">fol. 214<hi rend="superscript">v</hi></locus>, the last leaf of quire 22, is <quote>hic finitur xvij. petia</quote>, and <quote>xvii.</quote> is written in the lefthand margin above.</catchwords>
+                           </collation>
                         </supportDesc>
                         <layoutDesc>
-                           <layout><!--todo--></layout>
+                           <layout columns="2" writtenLines="74">Written in two columns each <dimensions unit="mm" type="written"><height quantity="243">243</height> <width quantity="65">65</width></dimensions> mm, 74 lines. Pricked as A (can be seen to have been in outer margins and for verticals) and ruled in crayon. Folded FSOS.</layout>
+                           <layout columns="2" writtenLines="74 78"><locus from="331r" to="348v">fols. 331-48</locus> <dimensions unit="mm" type="written"><height min="280" max="285">280-5</height> <width quantity="65">75</width></dimensions> mm, 74-8 lines</layout>
                         </layoutDesc>
                      </objectDesc>
                      <handDesc>
-                        <handNote><!--todo--></handNote>
+                        <handNote script="gothicoAntiqua">Italian gothic bookhand (not rotunda), as A, but probably by more than one scribe. Punctuation by low point.</handNote>
+                        <handNote script="textualisNorthern"><locus from="331r" to="340v">Fols. 331<hi rend="superscript">r</hi>-340<hi rend="superscript">v</hi></locus> are in a very inferior English gothic bookhand.</handNote>
+                        <handNote script="cursivaAntiquior">At the top right hand corner of most rectos, written in anglicana, are capitula (not found in the text) which act as a summary of the contents of the page.</handNote>
                      </handDesc>
                      <decoDesc>
-                        <decoNote><!--todo--></decoNote>
+                        <decoNote type="colInit">Coloured initials.</decoNote>
                      </decoDesc>
                   </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
                </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2024">First online publication.</change>
+         <change when="2025">First online publication.</change>
       </revisionDesc>
    </teiHeader>
    <text>
