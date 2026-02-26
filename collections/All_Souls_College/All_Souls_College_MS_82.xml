@@ -330,20 +330,19 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote scope="sole" script="protogothic">A small medium-grade protogothic
+                     <handNote scope="sole" script="protogothic">A small medium-grade <term type="script">protogothic</term>
                         book-hand written by one scribe using upright and round d, high and round s,
                         r on the line, tagged e, Tironian 'et' and the insular 'est' abbreviation.
-                        Rustic capitals are used for headings and colophons. Wording for the
+                        <term type="script">Rustic</term> capitals are used for headings and colophons. Wording for the
                         rubricator to follow is written in the outer margins and is therefore
                         sometimes trimmed off. Punctuation is mostly by low point and punctus
                         elevatus but at major breaks ornamental as well as textual use is made of
                         various groupings of colons, and points and curved dashes. See our Pl.
                         5</handNote>
-                     <!-- do i keep that last bit? -->
                   </handDesc>
-                  <!-- COME BACK HERE and edit from here down --><!-- ONLY copy and pasted below here no edits yet -->
+                 
                   <decoDesc>
-                     <decoNote>Initials are ten-line red at the beginning of the Eclogues (1);
+                     <decoNote type="initial">Initials are ten-line red at the beginning of the Eclogues (1);
                         six-line blue, infilled red, at the beginning of the Georgics (2); nine-line
                         red at the begin-ning of the Aeneis (3) and four/seven-line red for the
                         beginnings of each book. Lesser divisions are marked by smaller red
@@ -353,21 +352,21 @@
                         5.</decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <binding>
+                     <binding notBefore="1465" notAfter="1472">
                         <p>Sewn on five bands between projecting chamfered wooden boards. Bands are
                            taken over the upper surface of the back edge of the board to five
                            lacing-in holes. On the spine are a black leather lozenge-shaped label
-                           with `7' on it and a brown leather title-label. On the back cover all but
+                           with <q>7</q> on it and a brown leather title-label. On the back cover all but
                            one of the bands, the second from the top, has sprung free from its hole;
                            the one that is still in place is held by a wooden wedge. On the front
                            cover only two holes can be seen, in both of which the bands are held by
                            lead(?) nails. The boards are covered with blind-stamped leather, the
-                           stamps being nos. 3, 4, 6, 13-15, and 8o in Gibson, BOB. Graham Pollard
-                           sug-gested that the binder, between 1465 and 1472, might be John More,
+                           stamps being nos. 3, 4, 6, 13-15, and 80 in <bibl>Gibson, <title rend="italic">EOB</title>.</bibl> Graham Pollard
+                           suggested that the binder, between 1465 and 1472, might be <persName key="person_2576">John More</persName>,
                            who was university stationer and had a lodging house in Catte Street on
-                           the site of the Codrington Library; see G. Pollard, `The Names of Some
-                           English Fifteenth-Century Book-Binders', Librag, 5th ser. 25 (1970),
-                           193-218, pl. iv (before p. 2O1). The remains of two straps are visible on
+                           the site of the Codrington Library; see <bibl>G. Pollard, 'The Names of Some
+                           English Fifteenth-Century Book-Binders', <title rend="italic">Library</title>, 5th ser. 25 (1970),
+                           193-218, pl. iv (before p. 2O1)</bibl>. The remains of two straps are visible on
                            the front cover and on the back are two metal bars for their clasps to
                            hook onto. Two holes from a chain-staple are at the bottom of the front
                            cover (position 4) and two others are near the top of the back cover
@@ -378,12 +377,13 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notAfter="" notBefore="">s xii
-                        med<!--todo--></origDate>
+                     <origDate calendar="Gregorian" notAfter="1200" notBefore="1100">s xii
+                        med</origDate>
                      <origPlace>
                         <country key="place_7002445">England</country>
                      </origPlace>
                   </origin>
+                  <!-- got to here -->
                   <provenance>Upside down on fol. is a pen-trial, `Lego logicum' and, in the same
                      hand, `[. . .] domino suo et amico suo [. . .]', s. xii. On fol. iir is an
                      erased ex libris which can be read with the help of ultraviolet light, Tiber

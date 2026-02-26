@@ -346,7 +346,7 @@
                                           <locus from="17" to="17">17</locus>, <watermark>letter S</watermark>, type as <bibl>no. 1634 in O.
                                  Valls I. Subira, Paper and Watermarks.</bibl></p></support>
                         <extent>
-                           <measure type="leaf" quantity="195">4 + 195 + 2</measure><!-- ask morgan if thats right -->
+                           <measure type="leaf" quantity="195">4 + 195 + 2</measure>
                            <dimensions type="leaf" unit="mm">
                               <height quantity="200">200</height>
                               <width quantity="142">142</width>
@@ -392,7 +392,7 @@
                                  <height max="155" min="77" >155-77</height>
                                  <width quantity="100">100</width>
                               </dimensions>mm, <hi rend="italic">c.</hi>35-42 lines, in one column,
-                              except A(iii) which is in two columns.</layout> <!-- what to do about these multiple column values -->
+                              except A(iii) which is in two columns.</layout> 
                               <layout rulingMedium="leadpoint"><seg type="ruling"><locus from="ivr" to="75v">1-8</locus> ruled in lead.</seg></layout>
                                  <layout rulingMedium="hardpoint"><seg type="ruling">the rest in lead and hardpoint.</seg> No prickings are visible.</layout>
                      </layoutDesc>
@@ -420,7 +420,7 @@
                   </decoDesc>
                   <bindingDesc>
                      <binding notBefore="1700" notAfter="1994">
-                        <!-- come back to here not sure what to do but probably needs like three bindings -->
+                        
                         <p>Until <date>1994</date> sewn on seven bands between millboards covered
                            with blind-tooled calf, <date notBefore="1701" notAfter="1800">s.
                               xviii.</date></p></binding>
