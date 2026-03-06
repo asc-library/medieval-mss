@@ -133,29 +133,29 @@
                      <title key="work_4920">Aeneid</title>
                      <note><p>
                            <hi rend="italic">Aeneis</hi>, preceded by the <bibl>Ps.-Ovid
-                                 <!-- put the titles in rather than the hi italic! --><hi
-                                 rend="italic">Argumentum</hi> to bk. 1 (Bailey, <hi rend="italic"
-                                 >Anthologia Latina</hi>, 2)</bibl>. The Ps.-Ovid <hi rend="italic"
-                              >Argumenta</hi> to bks. 2-12 precede each book, written in the text,
-                           and line 15 of the <hi rend="italic">Argumentum</hi> to bk. 7 is repeated
+                                 <!-- put the titles in rather than the hi italic! --><title
+                                 >Argumentum</title> to bk. 1 (Bailey, <title
+                                 >Anthologia Latina</title>, 2)</bibl>. The Ps.-Ovid <title
+                              >Argumenta</title> to bks. 2-12 precede each book, written in the text,
+                           and line 15 of the <title>Argumentum</title> to bk. 7 is repeated
                            at the end of that book (fol. 100<hi rend="superscript">v</hi>), marked
                            in the margin 'Versus Ouidii Nasonis.' At the top right-hand corner of
                            fol. 37<hi rend="superscript">r</hi>, in the main hand, is the
                               <bibl>Ps.-Virgil <hi rend="italic">Praefatio Aeneidos</hi>, beg. 'Ille
                               ego qui quondam gracili modulatus auena', Schaller and K&#246;nsgen,
-                              7713, Walther, <hi rend="italic">Initia</hi>, 8699.</bibl> Bks. 1-3
+                              7713, Walther, <title>Initia</title>, 8699.</bibl> Bks. 1-3
                            are quite heavily glossed and bk. 7 has a number of glosses but there are
                            few elsewhere. The glosses are in three layers, of ss. xii, xiii<hi
                               rend="superscript">2</hi> and xiv<hi rend="superscript">2</hi>. The
                            earliest layer, Baswell's Comm. I, IA, probably contemporary with the
                            manuscript and possibly by the scribe of the text, is largely Servian in
-                           content but also draws on Macrobius's <hi rend="italic">Saturnalia</hi>;
+                           content but also draws on Macrobius's <title>Saturnalia</title>;
                            the second layer, Baswell's Comm. II, a series of brief lexical and
                            grammatical glosses, mostly interlinear, is in bk. 1 only (s. xiii<hi
                               rend="superscript">2</hi>); the third layer, <bibl>Baswell's Comm. III
                               (s. xiv<hi rend="superscript">2</hi>)</bibl>, is selective, probably
                            composed by its scribe, and includes material from Servius and Anselm of
-                           Laon. On the glosses see <bibl>Baswell, <hi rend="italic">Virgil</hi>,
+                           Laon. On the glosses see <bibl>Baswell, <title>Virgil</title>,
                               48-80</bibl>. <bibl><!--todo--></bibl></p></note>
                   </msItem>
 
@@ -184,7 +184,7 @@
                            cesar habes. | Hos ego uersiculos feci. tulit alter honorem. | Sic uos
                            non uobis mellificatis apes. | Sic uos non uobis uellera fertis oues. |
                            Sic uos non uobis fertis aratur boues.</quote>
-                        <!-- morgan i just used quote here because its the full poem ?? idk -->
+                   
                         <author key="person_301124571">Ps.-Virgil</author>
                         <note><p>, six verses. <bibl>Verses 1-2 ed. Bailey, <title>Anthologia
                                     Latina</title>, 189</bibl>; <bibl>cf. Schaller and K&#246;nsgen,
@@ -248,7 +248,7 @@
 
                      <msItem n="4vii" xml:id="All_Souls_College_MS_82-item-4/vii">
                         <incipit><locus from="151v">Fol. 151<hi rend="superscript">v</hi>.</locus>
-                           <note>(a)</note><!-- COME BACK HERE -how do i do this part with the a and b -->
+                           <note>(a)</note>
                            Sus iuuenis. serpens casum uenere sub unum</incipit>
                         <explicit>| sus iacet extinctus sibilat hic moriens.</explicit>
                         <incipit><note>(b)</note> Intereant et eant ad tartara non
@@ -272,7 +272,7 @@
                   <p>
                      <secFol>assidue</secFol>
                   </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
+              
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>
@@ -361,11 +361,11 @@
                            the one that is still in place is held by a wooden wedge. On the front
                            cover only two holes can be seen, in both of which the bands are held by
                            lead(?) nails. The boards are covered with blind-stamped leather, the
-                           stamps being nos. 3, 4, 6, 13-15, and 80 in <bibl>Gibson, <title rend="italic">EOB</title>.</bibl> Graham Pollard
+                           stamps being nos. 3, 4, 6, 13-15, and 80 in <bibl>Gibson, <title>EOB</title>.</bibl> Graham Pollard
                            suggested that the binder, between 1465 and 1472, might be <persName key="person_2576">John More</persName>,
                            who was university stationer and had a lodging house in Catte Street on
                            the site of the Codrington Library; see <bibl>G. Pollard, 'The Names of Some
-                           English Fifteenth-Century Book-Binders', <title rend="italic">Library</title>, 5th ser. 25 (1970),
+                           English Fifteenth-Century Book-Binders', <title>Library</title>, 5th ser. 25 (1970),
                            193-218, pl. iv (before p. 2O1)</bibl>. The remains of two straps are visible on
                            the front cover and on the back are two metal bars for their clasps to
                            hook onto. Two holes from a chain-staple are at the bottom of the front
@@ -383,31 +383,31 @@
                         <country key="place_7002445">England</country>
                      </origPlace>
                   </origin>
-                  <!-- got to here -->
+                
                   <provenance>Upside down on fol. ii<hi rend="superscript">r</hi>is a pen-trial, 'Lego logicum' and, in the same
                      hand, '[...] domino suo et amico suo [...]', s. xii. On fol. ii<hi rend="superscript">r</hi> is an
-                     erased <hi rend="italics">ex libris</hi> which can be read with the help of ultraviolet light, 'Liber
+                     erased <hi rend="italic">ex libris</hi> which can be read with the help of ultraviolet light, 'Liber
                      ecclesie sancte marie de 	
                      &#10216;cyrence&#10217;str'', s. xiii<hi rend="superscript">ex</hi>. Above it is another <hi rend="italic">ex libris</hi>
                      , obliterated, of which only 'Liber' is visible. On fol. iii<hi rend="superscript">v</hi> is 'Liber
                      Magistri Aluredi' in red capitals similar to and contemporary with those in the
-                     main text. For a possible identification of Alured see <bibl>C. D. Ross, The Cartulay
-                     of Cirencester Abbey, i (London, 1964), 54 no. 67</bibl>, a writ of King Henry II to
+                     main text. For a possible identification of Alured see <bibl>C. D. Ross, <title>The Cartulary
+                     of Cirencester Abbey</title>, i (London, 1964), 54 no. 67</bibl>, a writ of King Henry II to
                      the abbot of Cirencester, probably in 1155, witnessed by Mr Alured. Baswell,
-                     Virgil, 45, tentatively suggests that Ross's Cirencester canon Alured may be
+                     <title>Virgil</title>, 45, tentatively suggests that Ross's Cirencester canon Alured may be
                      the same as Alured, abbot of Haughmond, Shropshire, in the 1160s, who is
-                     referred to in a Haughmond charter as a <hi rend="italics">nutricius</hi>, i.e. a mentor or tutor, of
-                     Henry II. See also <bibl>N. R. Ker, 'Sir John Prise', <title rend="italics">Library</title>, 5th ser. 10 (1955),
-                     1-25, at 18, repr. in N. R. Ker, <title rend="italics">Books, Collectors and Libraries</title>, ed. A. G.
+                     referred to in a Haughmond charter as a <hi rend="italic">nutricius</hi>, i.e. a mentor or tutor, of
+                     Henry II. See also <bibl>N. R. Ker, 'Sir John Prise', <title>Library</title>, 5th ser. 10 (1955),
+                     1-25, at 18, repr. in N. R. Ker, <title>Books, Collectors and Libraries</title>, ed. A. G.
                      Watson (London and Ronceverte, 1955), 471-96 at 488, J.I</bibl>. On fol. 2<hi rend="superscript">r</hi> is 'Liber
                      collegij omnium fidelium defunctorum Oxon' datus per Henricum Penworthm': it is
                      a survivor of the books which Penwortham (d. 1438), Chichele's registrar and
-                     treasurer, bequeathed to the archbishop for his new foundation <bibl>(Ker, <title rend="italics">All Souls</title>,
+                     treasurer, bequeathed to the archbishop for his new foundation <bibl>(Ker, <title>All Souls</title>,
                      List II, no. 182, with 'libri diuersarum facultatum dis-tribuendi')</bibl>. No. 5 in
-                     <bibl>James, <title rend="italics">Ecloga</title></bibl>, and no. 1446 (45) in <bibl><title rend="italics">CMA</title></bibl>. All Souls library identifications, on
+                     <bibl>James, <title>Ecloga</title></bibl>, and no. 1446 (45) in <bibl><title>CMA</title></bibl>. All Souls library identifications, on
                      which see Introduction, are, inside the front cover, bookplate no. 8, on which
-                     there are also a 'vv. 12.1' (deleted) and 'L.R.2.a.3' (pencil); on fol. i<hi rend="superscript">r</hi>,
-                     '17'; on fol. I<hi rend="superscript">r</hi>, 'w.w.6.7' deleted; on fol. iv<hi rend="superscript">v</hi>, 'P&#10216;...&#10217;'. Kept with the
+                     there are also a <q type="pressmark">'vv. 12.1'</q>(deleted) and <q type="pressmark">'L.R.2.a.3'</q> (pencil); on fol. i<hi rend="superscript">r</hi>,
+                     '17'; on fol. I<hi rend="superscript">r</hi>, <q type="pressmark">'w.w.6.7'</q> deleted; on fol. iv<hi rend="superscript">v</hi>, 'P&#10216;...&#10217;'. Kept with the
                      book is a letter concerning its provenance from N.R. Ker to Sir Edmund
                      Craster, Librarian, 15 March 1950.</provenance>
                </history>
