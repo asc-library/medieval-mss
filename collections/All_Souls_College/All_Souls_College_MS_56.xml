@@ -12,8 +12,8 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2023">Encoding</resp>
-               <persName><!--todo--></persName>
+               <resp when="2026">Encoding</resp>
+               <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -36,86 +36,44 @@
                   <idno type="shelfmark">All Souls College MS. 56</idno>
                   <!--ARKS to be added-->
                </msIdentifier>
+               <head>Johannes de Platea de Bononia, <hi rend="italic">Lectura institutionum (Inst. 1-3)</hi></head>
                <msContents>
-                  <textLang mainLang="la">Latin</textLang>
-                  <!--check-->
-                  <msItem n="1" xml:id="All_Souls_College_MS_56-item-1">
-                     <rubric><!--todo--></rubric>
-                     <incipit><!--todo--></incipit>
-                     <explicit><!--todo--></explicit>
-                     <finalRubric><!--todo--></finalRubric>
-                     <author><!--todo--></author>
-                     <title><!--todo--></title>
-                     <listBibl>
-                        <bibl><!--todo--></bibl>
-                     </listBibl>
-                  </msItem>
-                  <msItem n="2" xml:id="All_Souls_College_MS_56-item-2">
-                     <rubric><!--todo--></rubric>
-                     <incipit><!--todo--></incipit>
-                     <explicit><!--todo--></explicit>
-                     <finalRubric><!--todo--></finalRubric>
-                     <author><!--todo--></author>
-                     <title><!--todo--></title>
-                     <listBibl>
-                        <bibl><!--todo--></bibl>
-                     </listBibl>
-                  </msItem>
-                  <msItem n="3" xml:id="All_Souls_College_MS_56-item-3">
-                     <rubric><!--todo--></rubric>
-                     <incipit><!--todo--></incipit>
-                     <explicit><!--todo--></explicit>
-                     <finalRubric><!--todo--></finalRubric>
-                     <author><!--todo--></author>
-                     <title><!--todo--></title>
-                     <listBibl>
-                        <bibl><!--todo--></bibl>
-                     </listBibl>
-                  </msItem>
+                  <p>Fore- and endleaves: pastedowns, text, = <ref target="#All_Souls_College_MS_56-item-1">item *1</ref>; <locus from="1r" to="1r">fol. 1<hi rend="superscript">r</hi></locus>, numbers; <locus from="1v" to="1v">fol. 1<hi rend="superscript">v</hi></locus>, bookplate, title, numbers.
+                  </p>
                </msContents>
                <physDesc>
                   <p>
-                     <secFol><!--todo--></secFol>
+                     <secFol>5<hi rend="superscript">o</hi> nota</secFol>
                   </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
+                  
                   <objectDesc form="codex">
-                     <supportDesc material="perg">
-                        <support><!--todo--></support>
+                     <supportDesc material="mixed">
+                        <support>Written on 292 leaves of good-quality paper. Membrane reinforcing strips are wrapped round the outside, and inserted into the middle, of quires. Eleven of these are fragments of the music manuscript described at <ref target="#All_Souls_College_MS_56-part-3">*3</ref>, others are strips of documents; the strip <locus from="178r" to="189v">facing fol. 178, wrapped round fols. 178-89</locus>, has part of a notary's mark. </support>
                         <extent>
-                           <measure type="leaf"><!--todo--></measure>
+                           <measure type="leaf" quantity="292">292</measure>
                            <dimensions type="leaf" unit="mm">
-                              <height><!--todo--></height>
-                              <width><!--todo--></width>
+                              <height quantity="275">275</height>
+                              <width quantity="197">197</width>
                            </dimensions>
                         </extent>
-                        <foliation><!--todo--></foliation>
-                        <collation><!--todo--></collation>
-                        <condition><!--todo--></condition>
+                        <foliation>Numbered in modern pencil.</foliation>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout/>
-                     </layoutDesc>
                   </objectDesc>
-                  <handDesc>
-                     <handNote><!--todo--></handNote>
-                  </handDesc>
-                  <decoDesc>
-                     <decoNote><!--todo--></decoNote>
-                  </decoDesc>
                   <bindingDesc>
-                     <binding>
-                        <p><!--todo--></p>
+                     <binding contemporary="false" notBefore="1427">
+                        <p>There is only one set of primary sewings, on four bands, but trimming of some marginalia shows that the book was rebound. It probably came from the Continent with the present pastedowns but without the boards, which are typically English in being <term ref="https://lob.is.ed.ac.uk/concept/2976" type="material">oak</term>. It is now sewn between these boards, which are protruding and square-edged with a slight cushion-bevel and covered with white <term ref="https://lob.is.ed.ac.uk/concept/1197" type="material">alum-tawed <term ref="https://lob.is.ed.ac.uk/concept/1593" type="material">sheepskin</term></term>. On the spine is a black leather lozenge-shaped label with <q>8</q> on it. On the front cover are the remains of straps in the usual positions, each held by five of the usual nails. On the back cover are two catches let into the thickness of the wood, each held by the usual nails. At the top edge of the back cover are two holes from a chain-plate (position 7). The endbands are blue and white and edges are yellowed.</p>
                      </binding>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate calendar="Gregorian" notAfter="" notBefore=""><!--todo--></origDate>
+                     <origDate calendar="Gregorian" notAfter="1443" notBefore="1427">1427 x 1443</origDate>
                      <origPlace>
-                        <country key=""><!--todo--></country>
+                        <placeName key="place_7004847">Bologna</placeName>, <country key="place_1000080">Italy</country>; or <placeName key="place_7004446">Cologne</placeName>, <country key="place_7000084">Germany</country>
                      </origPlace>
+                     <p>On <locus from="195r" to="195r">fol. 195<hi rend="superscript">r</hi></locus> at the end of bk ii, the scribe wrote <quote>Et ista sunt scripta famosissimi legum doctoris bone memorie domini iohannis de platea bonnonia compilata. Recollecta per me henricum Brunonis de piro studentem in legibus anno mccccxxvii prima iunii quo finiui in librum institucionum post primum quos legebam publice festiuis diebus quibus ordinarie non intrabatur in bon. ad laudem magni dei qui viuit per infinita secula Benedictus amen</quote>. If this is to be taken as the handwriting of <persName key="person_52035320">Henricus de Piro</persName> himself, it makes our manuscript the oldest dated copy of the text, but the passage could well have been copied by a later scribe. For arguments for and against this see <bibl>Feenstra, <title>Johannes de Platea...</title> 55</bibl>, who on the whole inclines to take the view that the manuscript was written in Bologna in <date when="1427">1427</date>. Against this is the fact that no manuscript could look less Italian and more northern German than this, but the evidence of the watermark could support either view (see above) and a northern style of script is explained by the fact that Henricus came from Cologne (see <bibl>G. C. Knod, <title>Deutsche Studenten in Bologna (1289-1562)</title> (Berlin, 1899), no. 2795</bibl>). The presence in the manuscript of binding leaves of Cologne provenance is most easily, if not conclusively, explained by postulating a Cologne origin for the book, but against this it can be argued that Henricus, having written part of the book in Bologna in <date when="1427">1427</date>, took it to Cologne when he returned there in <date when="1432">1432</date> and had it bound there. Unless a certain specimen of Henricus' handwriting or another copy bearing his statement should be found, no final decision seems possible.</p>
                   </origin>
-                  <provenance><!--todo--></provenance>
+                  <acquisition>The book reached All Souls in the lifetime of the Founder (<bibl>Ker, <title>All Souls, List II</title>, no. 242</bibl>, with <quote>Libri iuris ciuilis cath</quote>). Perhaps no. 43 in <bibl>James, <title>Ecloga</title></bibl>, and no. 1423 (22) in <bibl>CAIA</bibl>. All Souls library identifications, on which see Introduction, are, inside the front cover, on the leather, <quote>v.v.6.8</quote> (deleted); on the upper pastedown, <quote>ss:2:8</quote> (deleted); on fol. I<hi rend="superscript">r</hi> <quote>v.v.4.3</quote> (deleted), <quote>MS.56.</quote> (figures added?), <quote>8..14</quote> (pencil), <quote>L.R.2.b.10</quote> (pencil); on fol. I<hi rend="superscript">v</hi>, <quote>123</quote>, <quote>L.R. 2 .b .10</quote> (both pencil), and bookplate no. 8.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -131,11 +89,223 @@
                      </availability>
                   </adminInfo>
                </additional>
+               <msPart n="1" xml:id="All_Souls_College_MS_56-part-1i">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno type="part">All Souls College MS 56 *1i = lower pastedowns</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>                
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1i" xml:id="All_Souls_College_MS_56-item-1i">
+                        <title type="desc">Fragments</title>
+                        <note>The lower pastedowns at front and back are fragments, mostly concealed, of leaves from a canon or civil law text, <date notBefore="1300" notAfter="1400">s. xiv</date>.</note>
+                     </msItem>
+                  </msContents>                         
+                  <physDesc>                 
+                     <handDesc>
+                        <handNote>A scholastic bookhand</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate notBefore="1300" notAfter="1400" calendar="Gregorian">s. xiv </origDate>
+                        <origPlace>
+                           <placeName key="place_7004446">Cologne</placeName>
+                           <country key="place_7000084">Germany</country>
+                        </origPlace>
+                     </origin>
+                  </history>                        
+               </msPart>
+               <msPart n="1ii" xml:id="All_Souls_College_MS_56-part-1ii">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno type="part">All Souls College MS 56 *1ii = upper pastedowns</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>                
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1ii" xml:id="All_Souls_College_MS_56-item-1ii">
+                        <title type="desc">Legal document</title>
+                        <note>
+                           <p>The upper pastedowns at front and back (the stubs of which appear <locus from="279v" to="280r">between fols. 279/280</locus>) are the left and right sections of a document attested by a notary public, <quote><persName key="person_4559">Henricus dictus Meyken de Stralen</persName> clericus Coloniensis diocesis</quote>, on <date when="1391-07-14">14.July 1391</date>, in the presence of <persName key="person_4560">Johannes de Buschauen</persName> canon of the <orgName key="org_377">church of St George</orgName>, <placeName key="place_7004446">Cologne</placeName>, and <persName key="person_4561">Johannes de Duis<gap /></persName>.</p>
+                           <p>Johan van Buschoven and Johan de Dusburch are found passim in documents printed in <bibl><title>Das Stift St. Georg zu Köln</title> (Urkunden und Akten 1059-1802), ed. A.-D. v. den Brincken (Mitteilungen aus dem Stadtarchiv von Köln 51; Cologne, 1966)</bibl>.</p>      
+                        </note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <handDesc>
+                        <handNote>A careful cursive.</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate when="1391-07-14" calendar="Julian">14 July 1391</origDate>
+                        <origPlace>
+                           <placeName key="place_7004446">Cologne</placeName>
+                           <country key="place_7000084">Germany</country>
+                        </origPlace>
+                     </origin>
+                  </history>
+               </msPart>
+               <msPart n="2" xml:id="All_Souls_College_MS_56-part-2">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno type="part">All Souls College MS 56 2</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem n="2" xml:id="All_Souls_College_MS_56-item-2">
+                        <textLang mainLang="la">Latin</textLang>
+                        <incipit> Nota ex principio Rubrice ibi In nomine domini quod <locus from="2r" to="2r">fol. 2<hi rend="superscript">r</hi></locus></incipit>
+                        <explicit>sibi reditum secundum Bitt' in dicta lege labeo.</explicit>
+                        <finalRubric>Et sic est finis tercii libri Institucionum.
+                           <add>Johannes de platea</add>. Deo: Gracias: Quo manus errauit <lb /> scriptoris <lb /> corrige lector <lb /> Johannes de platea. <locus from="290v" to="290v">fol. 290<hi rend="superscript">v</hi></locus></finalRubric>
+                        <author key="person_69286396">Johannes Platea de Bononia</author>
+                        <title key="work_5600">Lectura institutionum (Inst. 1-3)</title>
+                        <note>
+                           <p><bibl type="edition">pr. Pavia, 1504</bibl>, etc.</p>
+                           <p>On the work and on this manuscript see <bibl>R. Feenstra, 'Johannes de Platea...' in <title>Europäisches Rechtsdenken in Geschichte und Gegenwart: Festschrift für Helmut Coing</title>, i (Munich, 1982), 39-62 at 46, 50, 545</bibl>, repr. in <bibl>R. Feenstra, <title>Le Droit savant au moyen âge et sa vulgarisation</title> (London, 1986), as ch. 9</bibl>. Of the two versions, differentiated by their incipits, ours is the A text. Our copy has the first three books only but the College had earlier had a second volume containing bk. iv: see <bibl>Ker, <title>All Souls</title>, 11, 87, 93</bibl>. That book was missing <date notAfter="1557">by 1557</date>.</p>
+                           <p>A non sequitur in the text <locus from="189v" to="190r">between quires 16 and 17 (fols. 189/190)</locus> was corrected by a reader who wrote <quote>d</quote> against <locus from="189v" to="189v">fol. 189<hi rend="superscript">v</hi>/18</locus>, which has the effect of cancelling from there to the end of the page (an unidentified interpolation). Blank pages <foreign>passim</foreign> do not result in loss of text. At the bottom of <locus from="219v" to="219v">fol. 219<hi rend="superscript">v</hi></locus>, at the end of a page with many corrections, a corrector (judging by the script, probably not, as Feenstra suggests, <persName key="person_52035320">Henricus de Piro</persName>) wrote <quote>copia erat imperfecta in hac parte</quote>. <locus from="291r" to="291v">Fol. 291<hi rend="superscript">rv</hi></locus> is blank. Pen-trials on <locus from="292r" to="292v">fol. 292<hi rend="superscript">rv</hi></locus> are in a hand of <date notBefore="1427" notAfter="1500">s. xv</date> which may be either English secretary or continental cursive: they include <quote>Arma virum que cano qui primis ab oris <lb /> Italiam fato profugas lamina venit <lb /> Littora</quote> (<bibl>Virgil, <title>Aeneid</title>, 1. 1</bibl>).
+                           </p>
+                        </note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>
+                        <secFol>5<hi rend="superscript">o</hi> nota</secFol>
+                     </p>
+                     <objectDesc>
+                        <supportDesc material="chart">
+                           <support>Written on 292 leaves of good-quality paper. <watermark>The watermark, the same throughout and best seen on <locus from="183r" to="183v">fol. 183</locus>, is a ram's head: for a rather distant likeness see Piccard, <hi rend="italic">Wasserzeichen Verschiedene Vierfüssler</hi>, iii. 282 (Italian, but used in Culemborg, the Netherlands, <date when="1435">1435</date>).</watermark>
+                           </support>
+                           <extent>
+                              <measure type="leaf" quantity="292">292</measure>
+                              <dimensions type="leaf" unit="mm">
+                                 <height quantity="275">275</height>
+                                 <width quantity="197">197</width>
+                              </dimensions>
+                           </extent>
+                           <foliation>Numbered in modern pencil.</foliation>
+                        
+                        <collation>
+                           <formula>1<hi rend="superscript">12</hi> (wants 2, blank?) 2-6<hi rend="superscript">12</hi> 7<hi rend="superscript">10</hi> 8-17<hi rend="superscript">12</hi> 18<hi rend="superscript">6</hi> 19-24<hi rend="superscript">12</hi> 25<hi rend="superscript">14</hi> (wants 13).</formula>
+                           <catchwords>Catchwords or traces of them survive in middle lower margins of last versos; so far as can be seen they are by the scribe of the text, except the one on <locus from="207v" to="207v">fol. 207<hi rend="superscript">v</hi></locus> which was probably written by the scribe of the next section.</catchwords>
+                           <signatures><quote>I</quote> on the first leaf of quire 5 (<locus from="48r" to="48r">fol. 48<hi rend="superscript">r</hi></locus>) does not seem to be part of a series of quire numbers or signatures: the first continuous series, consisting of a-e plus arabic figures on the leaves in the first half of the quire, begins on quire 7 (<locus from="72r" to="72r">fol. 72<hi rend="superscript">r</hi></locus>).</signatures>
+                        </collation>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="1" writtenLines="29 33" rulingMedium="mixed">Written in one column, <dimensions type="written" unit="mm"><height min="170" max="190">c.170-90</height> <width min="125" max="135">125-35</width></dimensions>, but there is much variation even within stints of individual scribes. Number of lines c.29-33. Prickings for frame ruling are sometimes visible. Frame ruling, partly in ink and partly in crayon.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc hands="4" cert="low">
+                        <handNote>Written by four(?) scribes, in the Cologne area or in Bologna.</handNote>
+                        <handNote script="cursivaAntiquior">(1) <locus from="2r" to="71v">Fols. 2<hi rend="superscript">r</hi>-71<hi rend="superscript">v</hi></locus>, gothic cursive</handNote>
+                        <handNote script="cursivaAntiquior">(2) <locus from="72r" to="189v">fols. 72<hi rend="superscript">r</hi>-189<hi rend="superscript">v</hi></locus>, <locus from="208r" to="290v">208<hi rend="superscript">r</hi>-290<hi rend="superscript">v</hi></locus>, gothic cursive</handNote>
+                        <handNote script="cursivaAntiquior">(3) <locus from="190r" to="201r">fols. 190<hi rend="superscript">r</hi>-201<hi rend="superscript">r</hi></locus>, gothic cursive</handNote>
+                        <handNote script="hybrida">(4) <locus from="201v" to="207v">fols. 201<hi rend="superscript">v</hi>-207<hi rend="superscript">v</hi></locus>, gothic hybrida (but Feenstra considers that they are in the same hand as <locus from="190r" to="201r">fols. 190<hi rend="superscript">r</hi>-201<hi rend="superscript">r</hi></locus>).
+                        </handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote type="decInit">On <locus from="16v" to="16v">fol. 16<hi rend="superscript">v</hi></locus>, one coloured and silvered initial in the German style, otherwise none.</decoNote>
+                        <decoNote type="unfilled">Spaces left for initials and rubrics but there is no guiding for either.</decoNote>
+                        <decoNote type="rubrication">Red (and a few blue) paraphs, red underlining. Some paraphs are touched with silver.</decoNote>
+                        <decoNote type="lineFill">Occasional red linefillers.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+               </msPart>
+               <msPart n="3" xml:id="All_Souls_College_MS_56-part-3">
+                  <msIdentifier>
+                        <altIdentifier>
+                          <idno type="part">All Souls College MS 56 *3 = quire-guards</idno>
+                        </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <summary><p>Fragments of four motets.</p>
+                        <p>The manuscript is described and the music and words transcribed by Andrew Wathey, <bibl><title>Manuscripts of Polyphonic Music. Supplement to RISM B IV<hi rend="superscript">1-2</hi>: The British Isles, 1100-1400</title> (Répertoire International des Sources Musicales B IV<hi rend="superscript">1-2</hi> Suppt. 1; Munich, 1993), 80-2</bibl>.</p></summary>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="3i" xml:id="All_Souls_College_MS_56-item-3i">
+                        <author key="person_9843113">B. de Cluni (sic in text)</author>
+                        <title key="work_5554">Apollinis eclipsatur, etc.</title>
+                        <note>
+                           <p>In this version a three-voice motet, with most of Triplum and Duplum and all of Tenor.</p>
+                        </note>
+                     </msItem>
+                     <msItem n="3ii" xml:id="All_Souls_College_MS_56-item-3ii">
+                        <title key="work_5555">Flos vernalis</title>
+                        <incipit type="voice_1">Flos vernalis</incipit>
+                        <incipit type="voice_2">Frat<gap />ntio</incipit>
+                        <note>Also found in a keyboard arrangement in <bibl>BL, MS Add. 28550 (the Robertsbridge Manuscript), ed. F. Ll. Harrison, E. Sanders, and P. Lefferts, <title>English Music for Mass and Office (II) and Music for Other Ceremonies</title> (Polyphonic Music of the Fourteenth Century 17, 1986), 157-8, no. 61.</bibl></note>
+                     </msItem>
+                     <msItem n="3iii" xml:id="All_Souls_College_MS_56-item-3iii">
+                        <incipit> <gap /> bernardi</incipit>
+                        <note>An originally four-part motet of which three parts remain with a Solus Tenor added.</note>
+                     </msItem>
+                     <msItem n="3iv" xml:id="All_Souls_College_MS_56-item-3iv">
+                        <title key="work_5556">Virgo / Flos formosus absque rubigine / Benedicamus Domino</title>
+                        <incipit type="voice_1">Virgo</incipit>
+                        <incipit type="voice_2">Flos <gap /> formosus absque rubigine</incipit>
+                        <incipit type="voice_3">Benedicamus domino</incipit>
+                        <note>A three-part motet.</note>
+                     </msItem>
+                  </msContents>                         
+                  <physDesc>
+                     <p>Eleven strips cut from a segment of a membrane roll written in <date notBefore="1325" notAfter="1375">s. xiv<hi rend="superscript">med</hi></date> and used as quire-guards. They are visible before:
+                        <list>
+                           <item>(a) fols. 60 and 72</item>
+                           <item>(b) fols. 82 and 94</item>
+                           <item>(c) fols. 106 and 118</item>
+                           <item>(d) 130 and 142</item>
+                           <item>(e) fol. 160</item>
+                           <item>(f) fol. 172</item>
+                           <item>(g) fol. 184</item>
+                           <item>(h) fol. 196</item>
+                           <item>(i) fol. 205</item>
+                           <item>(j) fol. 214</item>
+                           <item>(k) fol. 226</item>
+                        </list>
+                     </p>
+                     <p>Strips (a)-(d) are on the outsides of quires,
+                        strips (e)-(k) on the insides. Their original order is k, i,
+                        f, h, d, a, c, e, b, i, g.</p>
+                     <p>A strip is lost between (c) and (e) and one or more strips between (b) and (i).</p>
+                     <objectDesc>
+                        <supportDesc material="perg">
+                           <extent>
+                              <measure type="leaf">Eleven strips.</measure>
+                              <dimensions type="leaf" unit="mm">
+                                 <height min="10" max="20">c.10-20</height>
+                                 <width min="255" max="265">255-65</width>
+                              </dimensions>
+                           </extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout columns="2" rulingMedium="ink">Ruling: red fiveline staves, c.12 mm, at least 13 (on rectos) and 17 (on versos): black five-line staves were added on the recto for item ii, of which three remain. Ruled in two columns with parts of items i and iii written across the intervening space.</layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc hands="2">
+                        <handNote script="cursiva">Written in two hands, cursive by one scribe for <ref target="#All_Souls_College_MS_56-item-3i">i</ref>, <ref target="#All_Souls_College_MS_56-item-3iii">iii</ref>, and <ref target="#All_Souls_College_MS_56-item-3iv">iv</ref></handNote>
+                        <handNote>A rough quadrata bookhand for <ref target="#All_Souls_College_MS_56-item-3ii">ii</ref>.</handNote>
+                     </handDesc>
+                     <musicNotation>Ars nova notation.</musicNotation>
+                     <decoDesc>
+                        <decoNote type="unfilled">A ruled indentation, c.20 mm, was left for an initial but here and throughout no more than guide letters were inserted.</decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate notBefore="1325" notAfter="1375" calendar="Gregorian">s. xiv<hi rend="superscript">med</hi></origDate>
+                        <origPlace cert="low">
+                           <note>Since the book was bound on the Continent and not resewn after reaching England, the strips of music must have come from the Continent, probably from <placeName key="place_7004446">Cologne</placeName>. They may have been written in northern <placeName key="place_1000070">France</placeName> or the <placeName key="place_7016845">Netherlands.</placeName></note>
+                        </origPlace>              
+                     </origin>
+                  </history>                        
+               </msPart>
             </msDesc>
          </sourceDesc>
       </fileDesc>
       <revisionDesc>
-         <change when="2024">First online publication.</change>
+         <change when="2026">First online publication.</change>
       </revisionDesc>
    </teiHeader>
    <text>
