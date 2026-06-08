@@ -12,7 +12,7 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2025">Encoding</resp>
+               <resp when="2026">Encoding</resp>
                <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
@@ -45,10 +45,10 @@
                </msContents>
                <physDesc>
                   <p>
-                     <secFol><!--todo--></secFol>
+                     <secFol><note>[text]</note> mare</secFol>
+                     <secFol><note>[gloss]</note> duodecima.</secFol>
                   </p>
                   <p>Fore- and endleaves: <locus from="ir" to="iiv">fols.i<hi rend="superscript">r</hi>-ii<hi rend="superscript">v</hi></locus>, <locus from="Vr" to="VIv">V<hi rend="superscript">r</hi>-VI<hi rend="superscript">v</hi></locus>, text, = <ref target="#All_Souls_College_MS_50-item-1">1</ref>; <locus from="iiir" to="iiir">fol. iii<hi rend="superscript">r</hi></locus>, bookplates; <locus from="iiiv" to="ivr">fols. iii<hi rend="superscript">v</hi>-iv<hi rend="superscript">r</hi></locus> notes, pentrials; <locus from="ivv" to="vv">fols. iv<hi rend="superscript">v</hi>-v<hi rend="superscript">v</hi></locus>, text, = <ref target="#All_Souls_College_MS_50-item-2">2</ref>; <locus from="vir" to="viv">fol. vi<hi rend="superscript">rv</hi></locus>, notes on civil law; <locus from="VIIr" to="VIIIv">fols. VII<hi rend="superscript">r</hi>-VIII<hi rend="superscript">v</hi></locus>, fragments of printed flyleaves.</p>
-                  <p><!--todo: general comment on structure if necessary--></p>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support></support>
@@ -187,11 +187,7 @@
                      </msItem>
                   </msContents>
                   <physDesc>
-                     <p>
-                        <secFol><note>[text]</note> mare</secFol>
-                        <secFol><note>[gloss]</note> duodecima.</secFol>
-                     </p>
-                     <objectDesc>
+                      <objectDesc>
                         <supportDesc material="perg">
                            <support>Written on 280 leaves (280 is a fragment) of average-quality membrane, prepared in the Italian manner, but not well, with hair and flesh sides very similar. Folded FSOS (FHHF).</support>
                            <extent>

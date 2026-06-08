@@ -12,8 +12,8 @@
                <persName>Andrew G. Watson</persName>
             </respStmt>
             <respStmt>
-               <resp when="2023">Encoding</resp>
-               <persName><!--todo--></persName>
+               <resp when="2026">Encoding</resp>
+               <persName>Morgan Wilkinson</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -34,13 +34,36 @@
                   <settlement>Oxford</settlement>
                   <repository>All Souls College</repository>
                   <idno type="shelfmark">All Souls College MS. 42</idno>
+                  <altIdentifier type="shelfmark">
+                     <idno></idno>
+                  </altIdentifier>
                   <!--ARKS to be added-->
                </msIdentifier>
+               <head>Canons of legatine, provincial, and other ecclesiastical councils; statutes; etc., in Latin and English
+               </head>
+               <msContents>
+                  <p>The volume comprises seven main sections, A-G, which have many additions.</p>
+                  <p>Fore- and endleaves: <locus from="ir" to="ir">fol. i<hi rend="superscript">r</hi></locus>, number; <locus from="iv" to="iir">fols. i<hi rend="superscript">v</hi>-ii<hi rend="superscript">r</hi></locus>, blank; <locus from="iiv" to="iiv">fol. ii<hi rend="superscript">v</hi></locus>, contents-list; fol. <locus from="iiir" to="iiir">iii<hi rend="superscript">r</hi></locus>, identification letters; <locus from="iiiv" to="ivv">fols. iii<hi rend="superscript">v</hi>-iv<hi rend="superscript">v</hi></locus>, text, = <ref target="#All_Souls_College_MS_42-partA-item1">*A(i) below</ref>; <locus from="vr" to="vr">fol. v<hi rend="superscript">r</hi></locus>, blank; <locus from="vv" to="vv">fol. v<hi rend="superscript">v</hi></locus>, text, = <ref target="#All_Souls_College_MS_42-partA-item2">*A(ii) below</ref>; <locus>fol. I<hi rend="superscript">rv</hi></locus> text = <ref target="#All_Souls_College_MS_42-partG-item2">G(*ii)</ref> below; <locus from="IIr" to="IIr">fol. II<hi rend="superscript">r</hi></locus>, blank; <locus from="IIv" to="IIv">fol. II<hi rend="superscript">v</hi></locus>, pen-trials; <locus from="IIIr" to="IIIv">fol. III<hi rend="superscript">rv</hi></locus>, blank.
+                  </p>
+               </msContents>
                <physDesc>
                   <p>
-                     <secFol><!--todo--></secFol>
+                     <secFol><locus from="2r" to="2r">(fol. 2)</locus> clerici</secFol>
+                     <secFol><locus from="10r" to="10r">(fol. 10)</locus> sicut</secFol>
                   </p>
-                  <p><!--todo: general comment on structure if necessary--></p>
+                  <p>The collation and the relationship between the text, leaves and quires are as follows (I am indebted to Mr Griffiths for allowing me the use of his list).
+                  <list>
+                     <item n="A"><ref target="#All_Souls_College_MS_42-partA">*A</ref>, fols. ii-v, quire 1<hi rend="superscript">4</hi>.</item>
+                     <item n="B"><ref target="#All_Souls_College_MS_42-partB">*B</ref>, fols. 1-8, quire 2<hi rend="superscript">8</hi>.</item>
+                     <item n="C"><ref target="#All_Souls_College_MS_42-partC">C</ref>, fols. 9-176, quires 3-23<hi rend="superscript">8</hi> (with earlier quire signatures a-x).</item>
+                     <item n="D"><ref target="#All_Souls_College_MS_42-partD">D</ref>, fols. 177-200, quires 24-26<hi rend="superscript">8</hi>.</item>
+                     <item n="E"><ref target="#All_Souls_College_MS_42-partE">*E</ref>, fols. 201-11, quires 27<hi rend="superscript">4</hi> 28<hi rend="superscript">8</hi> (wants 7, 8; 1 inserted after 8?).</item>
+                     <item n="F"><ref target="#All_Souls_College_MS_42-partF">F</ref>, fols. 212-307, quires 29<hi rend="superscript">12</hi> 30<hi rend="superscript">10</hi>(10+ 1) 31-34<hi rend="superscript">12</hi> 35<hi rend="superscript">2</hi> 36<hi rend="superscript">10</hi> 37<hi rend="superscript">12</hi> (with earlier quire signatures a-f [g] h-j, j previously lettered 'f').</item>
+                     <item n="G"><ref target="#All_Souls_College_MS_42-partG">G</ref>, fols. 308-15, quire 38<hi rend="superscript">8</hi> (with earlier quire signature k).</item>
+                  </list>
+                    </p>
+                  <p>Sections *B, C, F, and G were probably written by professional scribes in <placeName key="place_7011931">Oxford</placeName>. Although C, D, and F are each written by several scribes, all are in the same types of script, varieties of anglicana showing secretary influence, and secretary. One decorator probably worked in these sections. The many additions are written on leaves that had been left blank at the end of sections and, judging by the presence of avoidable blanks (especially in section F where, for example, quire 37 has two conjugate blank leaves at its centre), the book may have been constructed in this way so that additions could be made.</p>
+                  <p>Sections *E and G are self-contained sections which have been added between, and follow after, larger sections respectively, and the offset of a border on <locus from="vv" to="vv">fol. v<hi rend="superscript">v</hi></locus>, evidently from <locus from="9r" to="9r">fol. 9<hi rend="superscript">r</hi></locus>, shows that fols. 1-8 have been inserted between these leaves.</p>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support><!--todo--></support>
@@ -79,16 +102,426 @@
                      </availability>
                   </adminInfo>
                </additional>
-               <msPart xml:id="All_Souls_College_MS_42-part1">
+               <msPart xml:id="All_Souls_College_MS_42-partA">
                   <msIdentifier>
                      <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
+                        <idno>All Souls College MS. 42, part *A</idno>
                      </altIdentifier>
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part1-item1">
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partA-item1">
+                        <title type="desc">Notes</title>
+                        <note><p>
+                              <locus from="iiiv">Fol. iii<hi rend="superscript">v</hi></locus>. Notes, including 'unus', 'due', 'tres' up to 12, e.g. <quote>Vnus est deus vna fides vna baptismum <gap reason="editorial"/> Due tabule moysi <gap reason="editorial" /> Tres patriarche abraham ysaac et jacob <gap reason="editorial" /> Quatuor euangeliste. Quinque liber moysi <gap reason="editorial" /> xij apostoli <gap reason="editorial" /> Item xij abusiones claustri seu religionis <gap reason="editorial" /></quote></p>
+                           <p>Ends <locus to="ivr">fol. iv<hi rend="superscript">r</hi></locus>. <locus from="ivv" to="ivv">Fol. iv<hi rend="superscript">v</hi></locus> has only one written line, duplicating the first line of the present item.</p>
+                        </note>
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partA-item2">
+                        <title type="
+                           desc">Notes</title>
+                        <msItem n="2a" xml:id="All_Souls_College_MS_42-partA-item2a">
+                           <title type="desc">Notes</title>
+                           <incipit><locus from="vv" to="vv">Fol. v<hi rend="superscript">v</hi>.</locus> Nota quod religiosi in ecclesiis parochialibus perpetuo instituti nichil iuris habent in monasterijs</incipit>
+                           <note>Reference is made to the <title key="work_2890">Pandects</title> and to <persName key="person_317285725">Jo. de ly<unclear>gnano</unclear></persName></note>
+                        </msItem>
+                        <msItem n="2b" xml:id="All_Souls_College_MS_42-partA-item2b">
+                           <title type="desc">Notes</title>
+                           <incipit><locus from="vv" to="vv">Fol. v<hi rend="superscript">v</hi>.</locus> Questio de domo nupta in confinibus parochiarum. De eo qui habet duas domos coniunctas in finibus duarum parochiarum cuius parochie censeatur</incipit>
+                           <note>Reference is made to <quote>dominum Andream ghyny de Florencia olim scolarem dicti <persName key="person_24629057">Jo A<unclear>ndreae</unclear></persName></quote>.</note>
+                        </msItem>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="">
+                           <support><!--todo--></support>
+                           <extent><!--todo--></extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout><!--todo--></layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote><!--todo--></handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote><!--todo--></decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
+                        <origPlace>
+                           <country><!--todo--></country>
+                        </origPlace>
+                     </origin>
+                     <provenance><!--todo--></provenance>
+                  </history>
+               </msPart>
+               <msPart xml:id="All_Souls_College_MS_42-partB">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>All Souls College MS. 42, part *B</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partB-item1">
+                        <incipit><locus from="1r" to="1r">Fol. 1<hi rend="superscript">r</hi>.</locus> Ad citeriorem inuencionem materiarum in constitucionibus Othonis et Octoboni legatorum</incipit>
+                        <explicit><locus from="7v" to="7v">Fol. 7<hi rend="superscript">v</hi>.</locus> Explicit tractatus constitucionum Othonis et Octoboni secundum ordinem alphabeti.</explicit>
+                        <title type="desc">An alphabetical subject-index, with references by chapter and subsection to the canons of <persName key="person_39777347">Otto</persName> and <persName key="person_93573791">Ottobuono</persName>.</title>
+                        <note>In a different hand from the text of the canons below.</note>
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partB-item2">
+                        <incipit><locus from="8r" to="8r">Fol. 8<hi rend="superscript">r</hi>.</locus> Constitucio <persName key="person_44329137">Gregorij .xj.</persName> de capellanis honoris. Gregorius etc. ad perpetuam rei memoriam. Ad romani pontificis prouidentiam</incipit>
+                        <explicit><locus from="8r" to="8r">Fol. 8<hi rend="superscript">r</hi>.</locus> Dat' <placeName key="place_7008799">avinion'</placeName> v<hi rend="superscript">o</hi> Idus Nouembris Pontificatus nostri Anno Tercio</explicit>
+                        <title type="desc">Papal constitution of <date when="1373">1373</date></title>
+                        <listBibl>
+                           <bibl>pr. <title>Bullarum diplomatum et privilegiorum sanctorum Romanorum pontificum</title>, iv (Turin, <date when="1859">1859</date>), 565-6.</bibl>
+                        </listBibl>
+                        <note>Written on the recto of the final leaf of the quire.</note>
+                     </msItem>
+                     <msItem n="3" xml:id="All_Souls_College_MS_42-partB-item3">
+                        <incipit><locus from="8r" to="8r">Fol. 8<hi rend="superscript">r</hi>.</locus> Duodecim sunt Procuratores Diaboli et discipuli antechristi papa patriarche cardinales archiepiscopi Episcopi Archidiaconi Officiates Decani Bifurcati Canonici Monachi et pseudo fratres nouissime interducti</incipit>
+                        <quote><locus from="8r" to="8r">Fol. 8<hi rend="superscript">r</hi>.</locus> Iste conclusiones cum alijs ducentis similibus dampnati fuerunt tanquam erronie erretice in plena congregacione magistrorum regentorum Oxon' celebrato in <date when="1410-06-26">festo sanctorum Johannis et Pauli anno domini millesimo cccc<hi rend="superscript">mo</hi> decimo</date> et dampnatur omnes conclusiones tales in sensibus in quibus sunt et ad mentem magistri <persName key="person_68939042">Johannis Wyclif</persName>. Et in eadem congregacione dampnati sunt libri plurimi predicti Johannis quorum primus est intitulatus de sermone domini in monte continens quatuor libros principales <note>[and a list of the eight works of John Wycliffe condemned by the University of Oxford in 1410]</note></quote>
+                        <title type="desc">Condemnation of works of John Wycliffe</title>
+                        <note>For the first sentence see <bibl>Wyclif, <title>Trialogus</title>, ed. G. Lechler (Oxford, 1869), 336/14</bibl>. All but the last of the works (<title>De arte sophistica</title>) listed as condemned are the usual texts examined by Wyclif's opponents after his death and all apart from the seventh (<title>De gradibus ecclesiae</title>) appear as the source of errors listed in <bibl>Wilkins, <title>Concilia</title>, iii. 399-49</bibl>. The errors listed in Wilkins from <title>De arte sophistica</title> identify that as <bibl><title>Logica III</title>, ed. M. H. Dziewicki (Wyclif Society, 1899)</bibl>. I am indebted to Professor Anne Hudson for all these references.</note>
+                        <note>Added in a different hand from the preceding item. <locus from="8v" to="8v">Fol. 8<hi rend="superscript">v</hi></locus> is blank.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <p>Judging by the offset of the coloured and illuminated border on <locus from="vv" to="vv">fol. v<hi rend="superscript">v</hi></locus>, presumably from <locus from="9r" to="9r">fol. 9<hi rend="superscript">r</hi></locus>, <locus from="1r" to="8v">fols. 1-8</locus> are an addition to the volume.</p>
+                     <objectDesc form="codex">
+                        <supportDesc material="">
+                           <support><!--todo--></support>
+                           <extent><!--todo--></extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout><!--todo--></layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote><!--todo--></handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote><!--todo--></decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
+                        <origPlace>
+                           <country><!--todo--></country>
+                        </origPlace>
+                     </origin>
+                     <provenance><!--todo--></provenance>
+                  </history>
+               </msPart>
+               <msPart xml:id="All_Souls_College_MS_42-partC">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>All Souls College MS. 42, part C</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partC-item1">
+                        <rubric type="gloss"><locus from="9r" to="9r">Fol. 9<hi rend="superscript">r</hi>.</locus> Incipit glosa Johannis Aton' super constitucionibus Otton' et Octob' sedis apostolice legatorum</rubric>
+                        <incipit type="gloss"><locus from="9r" to="9r">Fol. 9<hi rend="superscript">r</hi>.</locus> Ad succidendos palmites pestiferos</incipit>
+                        <rubric type="text"><locus from="9v" to="9v">Fol. 9<hi rend="superscript">v</hi>.</locus> De reformacione status ecclesiarum et earum consecracione.</rubric>
+                        <quote type="text"><locus from="9v" to="9v">Fol. 9<hi rend="superscript">v</hi>.</locus> Quoniam domum domini decet sanctitudo</quote>
+                        <explicit type="text"><locus from="173v" to="173v">Fol. 173<hi rend="superscript">v</hi>.</locus> celebrant observari.</explicit>
+                        <explicit type="gloss"><locus from="174r" to="174r">Fol. 174<hi rend="superscript">r</hi>.</locus> ab exordio in mercedem exspecto ecclesiastici. xj. c. <add>Explicit Johannes Aton qui glosauit constituciones Octoboni apostolice sedis legati.</add></explicit>
+                        <author key="person_5357362">John Acton</author>
+                        <title type="desc">Gloss on canons of Legatine Councils of Otto and Ottobuono</title>
+                        <note>Canons of the Legatine Councils held in London, by <persName key="person_2347">Cardinal Otto</persName>, <date from="1237" to="1241">1237-41</date>, <locus from="9r" to="84r">(fols. 9<hi rend="superscript">r</hi>-84<hi rend="superscript">r</hi>)</locus> and <persName key="person_93573791">Cardinal Ottobuono</persName>, <date when="1268">1268</date> <locus from="84v" to="174r">(fols. 84<hi rend="superscript">v</hi>-174<hi rend="superscript">r</hi>)</locus>. On the Council of 1237-41 and for references see <bibl>Powicke and Cheney, ii. 237-8</bibl> and for the text of the canons <bibl>ibid. 245-59</bibl>: for the Council of 1268 see <bibl>ibid. 738-43</bibl> and for the text of the canons <bibl>747-92</bibl>. The glosses of John Acton or Athon, canon of Lincoln, on whom see <bibl>BRUO ('Acton')</bibl>, were made in <date when="1334">1334</date> and first printed in Paris in <date when="1504">1504</date> <bibl>(STC 17108; later edns. 17109-13)</bibl>. For an alphabetical guide to Acton's text see <ref target="#All_Souls_College_MS_42-partE-item2">item *E(ii) below</ref>.</note>
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partC-item2">
+                        <incipit><locus from="174r" to="174r">Fol. 174<hi rend="superscript">r</hi>.</locus> Simon permissione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="174v" to="174v">Fol. 174<hi rend="superscript">v</hi>.</locus> Et consecracionis xiij<hi rend="superscript">o</hi></explicit>
+                        <author key="person_313409992">Simon Mepham</author>
+                        <title type="desc">The so-called statutes of Abp. Simon Mepham, <date when="1332">1332</date>,</title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 560-1</bibl>
+                        </listBibl>
+                        <note>Added on a blank half-page and originally running to Wilkins, 561<hi rend="superscript">a</hi>/8 only: completed in the margin in another hand.</note>
+                        
+                     </msItem>
+                     <msItem n="3" xml:id="All_Souls_College_MS_42-partC-item3">
+                        <incipit><locus from="174v" to="174v">Fol. 174<hi rend="superscript">v</hi>.</locus> Constitucio Stephani Cantuariensis archiepiscopi super plures casus in quibus simplex sacerdos non potest absoluere. Sacerdos non potest absoluere nisi in asticulo mortis</incipit>
+                        <title type="desc">Constitution of Stephen, Archbishop of Canterbury</title>
+                        <note>                           
+                           Pr. Wilkins, Concilia, i. 597, from this manuscript but omitting the form of absolution at the end. Repeated at <ref target="#All_Souls_College_MS_42-partF-item21">item F(xxi) below</ref>. <bibl>C. R. Cheney, <title>Legislation of the Medieval English Church</title>, <title>EHR</title> 50 (1935), 193-224, 385-417 at 400</bibl> (repr. in <bibl>C. R. Cheney, <title>The English Church and its Laws in the 12th-14th Centuries</title> (London, 1982), ch. 1</bibl>), rejects any connection with <persName role="att" key="person_7385506">Abp. Stephen Langton</persName>.</note>
+                        <note>Added on a blank verso and ending on <locus to="175r">fol. 175<hi rend="superscript">r</hi></locus>. <locus from="175v" to="176r">Fols. 175<hi rend="superscript">v</hi>-176<hi rend="superscript">r</hi></locus> are blank.</note>
+                     </msItem>
+                     <msItem n="4" xml:id="All_Souls_College_MS_42-partC-item4">
+                        <incipit><locus from="176v" to="176v">Fol. 176<hi rend="superscript">v</hi>.</locus> Inc. Calumpniantur processus Curie Cant' propter subscripta. In primis calumpnatur quod absque cause congnicione in tuitoriis Offic' inhibet exeunt' in Romana Curia</incipit>
+                        <explicit><locus from="176v" to="176v">Fol. 176<hi rend="superscript">v</hi>.</locus> Item quod non licet appellare a beneficio tuicionis concesse.</explicit>
+                        <title type="desc">A description of legal procedures in the Court of Arches.</title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                        <note>It is found as the first part of the text in <bibl>Cambridge, St John's College, MS 106 (E.3), fols. 41<hi rend="superscript">v</hi>-56<hi rend="superscript">v</hi></bibl>, which ends <quote>Explicit statuta de arcubus London</quote>. Added on a blank final verso of quire.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="">
+                           <support><!--todo--></support>
+                           <extent><!--todo--></extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout><!--todo--></layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote><!--todo--></handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote><!--todo--></decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
+                        <origPlace>
+                           <country><!--todo--></country>
+                        </origPlace>
+                     </origin>
+                     <provenance><!--todo--></provenance>
+                  </history>
+               </msPart>
+               <msPart xml:id="All_Souls_College_MS_42-partD">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>All Souls College MS. 42, part D</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partD-item1">
+                        <incipit><locus from="177r" to="177r">Fol. 177<hi rend="superscript">r</hi>.</locus> Statuta curie cantuariensis. Robertus permissione diuina Cantuariensis archiepiscopus ad viam nostri regiminis planius ordinandam</incipit>
+                        <explicit><locus from="183v" to="183v">Fol. 183<hi rend="superscript">v</hi>.</locus> beato Thoma martyre. Amen.</explicit>
+                        <author key="person_48966077" role="att">Abp. Robert Winchelsey</author>
+                        <title key="work_11888">The so-called statutes of <persName key="person_48966077" role="att">Abp. Robert Winchelsey</persName>, <date when="1295">1295</date></title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 278-83.</bibl>
+                           <bibl>See C. R. Cheney, <title>The So-Called Statutes of John Pecham and Robert Winchelsey for the Province of Canterbury</title>, <title>JEH</title> 12 (1961), 14-34 (repr. in <bibl>Cheney, <title>The English Church</title>, ch. ix</bibl>).</bibl></listBibl>
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partD-item2">
+                        <rubric><locus from="183v" to="183v">Fol. 183<hi rend="superscript">v</hi>.</locus> Incipiunt statuta. Curie Cantuariensis edita per venembilem patrem dominum J. de stratford Cantuariensem Archiepiscopum</rubric>
+                        <explicit><locus from="195r" to="195r">Fol. 195<hi rend="superscript">r</hi>.</locus> Expliciunt statuta Johannis Archiepiscopi Cantuariensis.</explicit>
+                        <author key="person_104723503">John Stratford</author>
+                        <title key="work_7828">The Statutes of Abp. John Stratford, <date when="1342">1342</date></title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 681 95<hi rend="superscript">a</hi>/15.</bibl>
+                        </listBibl>
+                        
+                        <note>Four chapters omitted at the end are <ref target="#All_Souls_College_MS_42-partF-item35">item F(xxxv) below</ref>.</note>
+                     </msItem>
+                     <msItem n="3" xml:id="All_Souls_College_MS_42-partD-item3">
+                        <incipit><locus from="195r" to="195r">Fol. 195<hi rend="superscript">r</hi>.</locus> Robertus permissione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="195v" to="195v">Fol. 195<hi rend="superscript">v</hi>.</locus> Dat' apud            Wrotham xvj kln' Julii Anno domini millesimo CCC<hi rend="superscript">mo</hi> ix. Consecracionis nostre quinto decimo.</explicit>
+                        <author key="person_48966077">Robert Winchelsey</author>
+                        <title>Statute of Abp. Robert Winchelsey for the administration of the Court of Canterbury, <date when="1309">1309</date></title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 303-4.</bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="4" xml:id="All_Souls_College_MS_42-partD-item4">
+                        <incipit><locus from="195v" to="195v">Fol. 195<hi rend="superscript">v</hi>.</locus> Walterus permissione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="196r" to="196r">Fol. 196<hi rend="superscript">r</hi>.</locus> Dat' apud
+                           Lambhethe tercio Kln' Augusti. Anno domini millesimo CCC<hi rend="superscript">mo</hi> X<hi rend="superscript">mo</hi></explicit>
+                        <author key="person_3783795">Walter Reynolds</author>
+                        <title type="desc">Commission concerning the sequestrations of fruits of benefices, 1320</title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 497-8.</bibl>
+                        </listBibl>
+                        <note>
+                           Commission issued by Abp. Walter Reynolds to the
+                           officials of the church of Canterbury and the dean of
+                           the Court of Arches concerning the sequestrations
+                           of fruits of benefices, <date when="1320">1320</date>.</note>
+                     </msItem>
+                     <msItem n="5" xml:id="All_Souls_College_MS_42-partD-item5">
+                        <incipit><locus from="196r" to="196r">Fol. 196<hi rend="superscript">r</hi>.</locus> Edwardus dei gracia rex Anglie Dominus hibernie</incipit>
+                        <explicit><locus from="198r" to="198r">Fol. 198<hi rend="superscript">r</hi>.</locus> Teste me ipso apud Ebor' vicesimo quarto die nouembris. Anno regni nostri decimo. Istis modis prescriptus cessat regis prohibencia.</explicit>
+                        <title type="desc">The Articuli cleri of <date when="1281">1281</date></title>
+                        <listBibl>
+                           <bibl>pr. <title>SR</title> i. 171-4.</bibl>
+                        </listBibl>
+                        <note>Repeated at <ref target="#All_Souls_College_MS_42-partF-item47">item F(xlvii) below</ref>.
+                        </note>
+                     </msItem>
+                     <msItem n="6" xml:id="All_Souls_College_MS_42-partD-item6">
+                        <incipit><locus from="198r" to="198r">Fol. 198<hi rend="superscript">r</hi>.</locus> Hec igitur</incipit>
+                        <explicit><locus from="198r" to="198r">Fol. 198<hi rend="superscript">r</hi>.</locus> nostre translacionis nono.</explicit>
+                        <author key="person_104723503">John Stratford</author>
+                        <title>Section of the statutes of Abp. John Stratford</title>
+                        <note>The final section of the statutes of Abp. John Stratford of <date when="1342">1342</date>, pr. <bibl>Wilkins, <title>Concilia</title>, ii. 694-5</bibl>, and by a further paragraph, not in Wilkins, listing those present at promulgation.
+                        </note>
+                     </msItem>
+                     <msItem n="7" xml:id="All_Souls_College_MS_42-partD-item7">
+                        <incipit><locus from="198v" to="198v">Fol. 198<hi rend="superscript">v</hi>.</locus> Nota sequens' pro materia querelarum. (a) In primis est sciendum quid est dare querelam simpliciter. et illa habet locum dumtaxat in materia extraiudiciali. (b) Item est dare querelam aliam in materia iudiciali dumtaxat propter negligentiam iudicis inferioris. (c) Item est dare querelam duplicem non duplicem respectu querele simplicis in materia extraiudiciali</incipit>
+                        <explicit><locus from="198v" to="198v">Fol. 198<hi rend="superscript">v</hi>.</locus> ut superius est expressum.</explicit>
+                        <title type="desc">A description of procedures for pleas in an ecclesiastical court.</title>
+                        <note>
+                           Not identified.
+                        </note>
+                     </msItem>
+                     <msItem n="8" xml:id="All_Souls_College_MS_42-partD-item8">
+                        <incipit><locus from="199r" to="199r">Fol. 199<hi rend="superscript">r</hi>.</locus> Statuta Consistorij Episcopalis Lincoln'. Henricus permissione diuina lincolniensis episcopus</incipit>
+                        <explicit><locus from="200v" to="200v">Fol. 200<hi rend="superscript">v</hi>.</locus> Dat' apud Notyngham' iij. Jdus Julij. Anno domini millesimo <sic>Trescensimo</sic> .iiij<hi rend="superscript">o</hi>. et consecracionis nostre .xiiij<hi rend="superscript">o</hi>. Expliciunt statuta Consistorij episcopalis Lincoln'.</explicit>
+                       
+                        <author key="person_11943698">Henry Burghersh</author>
+                        <title key="work_7829">The statutes of Henry Burghersh, bp. of Lincoln, 1334</title>
+                        <note>pr. <bibl>Wilkins, <title>Concilia</title>, ii. 571-4</bibl> from this manuscript, which he refers to as 'MS P.22': see History below.</note>
+                        <note>Added on two blank leaves at the end of quire 26.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="">
+                           <support><!--todo--></support>
+                           <extent><!--todo--></extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout><!--todo--></layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote><!--todo--></handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote><!--todo--></decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
+                        <origPlace>
+                           <country><!--todo--></country>
+                        </origPlace>
+                     </origin>
+                     <provenance><!--todo--></provenance>
+                  </history>
+               </msPart>
+               <msPart xml:id="All_Souls_College_MS_42-partE">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>All Souls College MS. 42, part *E</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partE-item1">
+                        <msItem n="1a">
+                           <incipit><locus from="201r" to="201r">Fol. 201<hi rend="superscript">r</hi>.</locus> Hic incipit magna carta de libertatibus anglie. Henricus dei gracia Rex anglie etc</incipit>
+                           <explicit><locus from="202v" to="202v">Fol. 202<hi rend="superscript">v</hi>.</locus> Explicit magna carta de libertatibus anglie.</explicit>
+                           <title key="work_13100">Magna Carta</title>
+                        </msItem>
+                        <msItem n="1b">
+                           <incipit><locus from="202v" to="202v">Fol. 202<hi rend="superscript">v</hi>.</locus> Incipit carta de foresta. Henricus dei gracia etc. Sciatis quod nos intuitu dei</incipit>
+                           <explicit><locus from="203r" to="203r">Fol. 203<hi rend="superscript">r</hi>.</locus> contra tenorem carte predicte. Explicit carta de foresta.</explicit>
+                           <title key="work_5557">Carta de Foresta</title>
+                        </msItem>
+                        <note>Magna carta of <date when="1225">9 Hen. III (1224-5)</date>, pr. <bibl><title>SR</title> i (Charters of
+                           Liberties), 22-5</bibl>; Carta de foresta of same year pr. <bibl>ibid. i 26</bibl>.
+                        </note>
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partE-item2">
+                        <incipit><locus from="203v" to="203v">Fol. 203<hi rend="superscript">v</hi>.</locus> Questiones et notabilia Johannis Athonis supra dictas constituciones ut supra in principio etc. per alphabetum. Abbas est nomen oneris non honoris</incipit>
+                        <explicit><locus from="211r" to="211r">Fol. 211<hi rend="superscript">r</hi>.</locus> Zelus de isto nota constitutio octobonis iustus. est, et verus.</explicit>
+                        <title type="desc">An alphabetical guide to John Acton's work.</title>
+                        <note>
+                           An alphabetical guide to <persName key="person_5357362">John Acton's or Athon's</persName> work, <ref target="#All_Souls_College_MS_42-partC-item1">item C(i) above</ref>, and apparently the only copy. Unprinted. Between fols. 210 and 211 are two stubs, but there is no break in the alphabetical sequence and comparison with the index to the canons at <ref target="#All_Souls_College_MS_42-partB-item1">item *B(i) above</ref> suggests that there is no loss of text. As fol. 211 seems to have been added to the quire, it may replace the two excised leaves.
+                        </note>
+                     </msItem>
+                     <msItem n="3" xml:id="All_Souls_College_MS_42-partE-item3">
+                        <incipit><locus from="211v" to="211v">Fol. 211<hi rend="superscript">v</hi>.</locus> Sequitur de iuribus que pertinent ad archidiaconos. Et primo per constituciones Legatinas deinde per prouinciales. Archidiaconi vero in singulis decanatuum suorum conuentibus</incipit>
+                        <explicit><locus from="211v" to="211v">Fol. 211<hi rend="superscript">v</hi>.</locus> suspensionis pena innodentur donec dimidiam marcham argenti pro sua inobediencia archidiacono soluerint.</explicit>
+                        <title type="desc">On the legal powers of archdeacons</title>
+                        <note>Not identified. On the legal powers of archdeacons, citing relevant English legatine and provincial councils. In a new hand, added on a blank final page of the quire.</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="">
+                           <support><!--todo--></support>
+                           <extent><!--todo--></extent>
+                        </supportDesc>
+                        <layoutDesc>
+                           <layout><!--todo--></layout>
+                        </layoutDesc>
+                     </objectDesc>
+                     <handDesc>
+                        <handNote><!--todo--></handNote>
+                     </handDesc>
+                     <decoDesc>
+                        <decoNote><!--todo--></decoNote>
+                     </decoDesc>
+                  </physDesc>
+                  <history>
+                     <origin>
+                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
+                        <origPlace>
+                           <country><!--todo--></country>
+                        </origPlace>
+                     </origin>
+                     <provenance><!--todo--></provenance>
+                  </history>
+               </msPart>
+               <msPart xml:id="All_Souls_College_MS_42-partF">
+                  <msIdentifier>
+                     <altIdentifier>
+                        <idno>All Souls College MS. 42, part F</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <textLang mainLang="la">Latin</textLang>
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partF-item1">
+                        <rubric><!--todo--></rubric>
+                        <incipit><locus from="212r" to="212r">Fol. 212<hi rend="superscript">r</hi>.</locus> <persName key="person_7385506">Stephanus Langton</persName> Oxon. Incipiunt Constituciones domini Stephani de Langton <add>Oxon' edite</add> Ex quibus causis infligitur excommunicacione</incipit>
+                        <explicit><locus from="217v" to="217v">Fol. 217<hi rend="superscript">v</hi>.</locus> Expliciunt constituciones <gap reason="editorial" /> anno domini m<hi rend="superscript">o</hi> cc<hi rend="superscript">o</hi> xxij<hi rend="superscript">o</hi></explicit>
+                        <title key="work_17108">Canons of the Council of Oxford, 1222</title>
+                        <listBibl>
+                           <bibl>pr. Powicke and Cheney, ii. 106-25.</bibl>
+                           <bibl> On the text see also Cheney, <title>Legislation</title>, at 329-98.</bibl>
+                        </listBibl>
+                        
+                     </msItem>
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partF-item2">
+                        <rubric><!--todo--></rubric>
+                        <incipit><locus from="217v" to="217v">Fol. 217<hi rend="superscript">v</hi>.</locus> Incipiunt constituciones eiusdem <unclear>Langton</unclear> edite apud lambehyth'. Statutum felicis
+                           recordacionis</incipit>
+                        <explicit><locus from="218v" to="218v">Fol. 218<hi rend="superscript">v</hi>.</locus> oleo sane accipiend' etc
+                           credimus intellectum etc.</explicit>
+                        <title key="work_17110">So-called statutes of Abp. Stephen Langton, <date when="1210">1210</date></title>
+                        <note>
+                           pr. <bibl>Wilkins, <title>Concilia</title>, i. 530-1</bibl>, as far as <quote>necessitate absente</quote> (MS <locus from="218r" to="218r">fol. 218<hi rend="superscript">r</hi>/40</locus>, after which our text continues for a further eighteen lines). <bibl>Cheney, <title>Legislation</title>, at 398-400</bibl>, rejects a connection with <persName role="att" key="person_7385506">Abp. Langton</persName>.</note>
+                     </msItem>
+                     <msItem n="3" xml:id="All_Souls_College_MS_42-partF-item3">
+                        <incipit><locus from="218v" to="218v">Fol. 218<hi rend="superscript">v</hi>.</locus> Incipit constitucio domini Roberti <unclear>Winchelsey</unclear> apud Merton' de modo decumandi <date when="1305">1305</date>. Quoniam propter diuersas consuetudines</incipit>
+                        <explicit><locus from="219v" to="219v">Fol. 219<hi rend="superscript">v</hi></locus> censura ecclesiastica volumus coartari. Expliciunt constituciones <gap reason="editorial" /> anno domini m <sic>cc<hi rend="superscript">o</hi> ij<hi rend="superscript">o</hi></sic>.</explicit>
+                        <author key="person_48966077">Robert Winchelsey</author>
+                        <title key="work_11888">The so-called statutes of Abp. Robert Winchelsey</title>
+                        <listBibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, ii. 278-80</bibl>
+                           <bibl>See Powicke and Cheney, ii. 1389-93</bibl>
+                           <bibl>Cheney, <title>So-called Statutes</title>, 31, 28, 29-30, and <title>Legislation</title>, at 409-13.</bibl>
+                        </listBibl>
+                        <note>
+                           Our text to <locus to="219r">fol. 219<hi rend="superscript">r</hi>/33</locus> agrees with Concilia as far as 279<hi rend="superscript">b</hi>/62 except that the manuscript lacks 278<hi rend="superscript">b</hi>/47-279<hi rend="superscript">b</hi>/50. The manuscript then contains nine lines not in Concilia and <locus from="219v" to="219v">fol. 219<hi rend="superscript">v</hi>/5-31</locus> has Concilia 279<hi rend="superscript">a</hi>/18-279<hi rend="superscript">b</hi>/13. After the explicit there are further sections on tithes and church ornaments. 
+                        </note>
+                     </msItem>
+                     <msItem n="4" xml:id="All_Souls_College_MS_42-partF-item4">
+                        <incipit><locus from="221v" to="221v">Fol. 221<hi rend="superscript">v</hi>.</locus> Incipiunt constituciones domini Ricardi archiepiscopi Cantuariensis edite apud Westm'. De clericis contrahentibus matrimonium</incipit>
+                        <explicit><locus from="222v" to="222v">Fol. 222<hi rend="superscript">v</hi>.</locus> Explicit consilium <gap reason="editorial" /> Anno domini <sic>lx<hi rend="superscript">o</hi> v<hi rend="superscript">o</hi></sic>.</explicit>
+                        <title key="work_17113">Statutes of Abp. Richard of Dover, 1175</title>
+                        <note>pr. <bibl>Wilkins, <title>Concilia</title>, i. 477-9</bibl>. Our text has chs. 17, 9, 12, 13, 17, and 19 of those printed by <bibl>D. Whitelock, M. Brett, and C. N. L. Brooke, <title>Councils and Synods, i: A.D. 871-1204, part II 1066-1204</title> (Oxford, 1981), 983-92</bibl>. On the text of the canons see <bibl>Cheney, <title>Legislation</title>, at 385-8</bibl>                        </note>
+                     </msItem>
+                     <msItem n="5" xml:id="All_Souls_College_MS_42-partF-item5">
                         <rubric><!--todo--></rubric>
                         <incipit><!--todo--></incipit>
                         <explicit><!--todo--></explicit>
@@ -99,7 +532,271 @@
                            <bibl><!--todo--></bibl>
                         </listBibl>
                      </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part1-item2">
+                     <msItem n="6" xml:id="All_Souls_College_MS_42-partF-item6">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="7" xml:id="All_Souls_College_MS_42-partF-item7">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="8" xml:id="All_Souls_College_MS_42-partF-item8">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="9" xml:id="All_Souls_College_MS_42-partF-item9">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="10" xml:id="All_Souls_College_MS_42-partF-item10">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="11" xml:id="All_Souls_College_MS_42-partF-item11">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="12" xml:id="All_Souls_College_MS_42-partF-item12">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="13" xml:id="All_Souls_College_MS_42-partF-item13">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="14" xml:id="All_Souls_College_MS_42-partF-item14">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="15" xml:id="All_Souls_College_MS_42-partF-item15">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="16" xml:id="All_Souls_College_MS_42-partF-item16">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="17" xml:id="All_Souls_College_MS_42-partF-item17">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="18" xml:id="All_Souls_College_MS_42-partF-item18">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="19" xml:id="All_Souls_College_MS_42-partF-item19">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="20" xml:id="All_Souls_College_MS_42-partF-item20">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="21" xml:id="All_Souls_College_MS_42-partF-item21">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="22" xml:id="All_Souls_College_MS_42-partF-item22">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="23" xml:id="All_Souls_College_MS_42-partF-item23">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="24" xml:id="All_Souls_College_MS_42-partF-item24">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="25" xml:id="All_Souls_College_MS_42-partF-item25">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="26" xml:id="All_Souls_College_MS_42-partF-item26">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="27" xml:id="All_Souls_College_MS_42-partF-item27">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="28" xml:id="All_Souls_College_MS_42-partF-item28">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="29" xml:id="All_Souls_College_MS_42-partF-item29">
+                        <rubric><!--todo--></rubric>
+                        <incipit><!--todo--></incipit>
+                        <explicit><!--todo--></explicit>
+                        <finalRubric><!--todo--></finalRubric>
+                        <author><!--todo--></author>
+                        <title><!--todo--></title>
+                        <listBibl>
+                           <bibl><!--todo--></bibl>
+                        </listBibl>
+                     </msItem>
+                     <msItem n="30" xml:id="All_Souls_College_MS_42-partF-item30">
                         <rubric><!--todo--></rubric>
                         <incipit><!--todo--></incipit>
                         <explicit><!--todo--></explicit>
@@ -138,7 +835,7 @@
                      <provenance><!--todo--></provenance>
                   </history>
                </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part2">
+               <msPart xml:id="All_Souls_College_MS_42-partG">
                   <msIdentifier>
                      <altIdentifier>
                         <idno>All Souls College MS. 42, part
@@ -147,7 +844,7 @@
                   </msIdentifier>
                   <msContents>
                      <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part2-item1">
+                     <msItem n="1" xml:id="All_Souls_College_MS_42-partG-item1">
                         <rubric><!--todo--></rubric>
                         <incipit><!--todo--></incipit>
                         <explicit><!--todo--></explicit>
@@ -158,720 +855,7 @@
                            <bibl><!--todo--></bibl>
                         </listBibl>
                      </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part2-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_42-part2-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                  </msContents>
-                  <physDesc>
-                     <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
-                        </supportDesc>
-                        <layoutDesc>
-                           <layout><!--todo--></layout>
-                        </layoutDesc>
-                     </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
-                     </handDesc>
-                     <decoDesc>
-                        <decoNote><!--todo--></decoNote>
-                     </decoDesc>
-                  </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
-               </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part3">
-                  <msIdentifier>
-                     <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
-                     </altIdentifier>
-                  </msIdentifier>
-                  <msContents>
-                     <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part3-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part3-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_42-part3-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="4" xml:id="All_Souls_College_MS_42-part3-item4">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                  </msContents>
-                  <physDesc>
-                     <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
-                        </supportDesc>
-                        <layoutDesc>
-                           <layout><!--todo--></layout>
-                        </layoutDesc>
-                     </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
-                     </handDesc>
-                     <decoDesc>
-                        <decoNote><!--todo--></decoNote>
-                     </decoDesc>
-                  </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
-               </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part4">
-                  <msIdentifier>
-                     <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
-                     </altIdentifier>
-                  </msIdentifier>
-                  <msContents>
-                     <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part4-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part4-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_42-part4-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="4" xml:id="All_Souls_College_MS_42-part4-item4">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="5" xml:id="All_Souls_College_MS_42-part4-item5">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="6" xml:id="All_Souls_College_MS_42-part4-item6">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="7" xml:id="All_Souls_College_MS_42-part4-item7">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="8" xml:id="All_Souls_College_MS_42-part4-item8">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                  </msContents>
-                  <physDesc>
-                     <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
-                        </supportDesc>
-                        <layoutDesc>
-                           <layout><!--todo--></layout>
-                        </layoutDesc>
-                     </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
-                     </handDesc>
-                     <decoDesc>
-                        <decoNote><!--todo--></decoNote>
-                     </decoDesc>
-                  </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
-               </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part5">
-                  <msIdentifier>
-                     <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
-                     </altIdentifier>
-                  </msIdentifier>
-                  <msContents>
-                     <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part5-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part5-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_42-part5-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                  </msContents>
-                  <physDesc>
-                     <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
-                        </supportDesc>
-                        <layoutDesc>
-                           <layout><!--todo--></layout>
-                        </layoutDesc>
-                     </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
-                     </handDesc>
-                     <decoDesc>
-                        <decoNote><!--todo--></decoNote>
-                     </decoDesc>
-                  </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
-               </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part6">
-                  <msIdentifier>
-                     <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
-                     </altIdentifier>
-                  </msIdentifier>
-                  <msContents>
-                     <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part6-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part6-item2">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="3" xml:id="All_Souls_College_MS_42-part6-item3">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="4" xml:id="All_Souls_College_MS_42-part6-item4">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="5" xml:id="All_Souls_College_MS_42-part6-item5">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="6" xml:id="All_Souls_College_MS_42-part6-item6">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="7" xml:id="All_Souls_College_MS_42-part6-item7">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="8" xml:id="All_Souls_College_MS_42-part6-item8">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="9" xml:id="All_Souls_College_MS_42-part6-item9">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="10" xml:id="All_Souls_College_MS_42-part6-item10">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="11" xml:id="All_Souls_College_MS_42-part6-item11">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="12" xml:id="All_Souls_College_MS_42-part6-item12">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="13" xml:id="All_Souls_College_MS_42-part6-item13">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="14" xml:id="All_Souls_College_MS_42-part6-item14">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="15" xml:id="All_Souls_College_MS_42-part6-item15">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="16" xml:id="All_Souls_College_MS_42-part6-item16">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="17" xml:id="All_Souls_College_MS_42-part6-item17">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="18" xml:id="All_Souls_College_MS_42-part6-item18">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="19" xml:id="All_Souls_College_MS_42-part6-item19">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="20" xml:id="All_Souls_College_MS_42-part6-item20">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="21" xml:id="All_Souls_College_MS_42-part6-item21">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="22" xml:id="All_Souls_College_MS_42-part6-item22">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="23" xml:id="All_Souls_College_MS_42-part6-item23">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="24" xml:id="All_Souls_College_MS_42-part6-item24">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="25" xml:id="All_Souls_College_MS_42-part6-item25">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="26" xml:id="All_Souls_College_MS_42-part6-item26">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="27" xml:id="All_Souls_College_MS_42-part6-item27">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="28" xml:id="All_Souls_College_MS_42-part6-item28">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="29" xml:id="All_Souls_College_MS_42-part6-item29">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="30" xml:id="All_Souls_College_MS_42-part6-item30">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                  </msContents>
-                  <physDesc>
-                     <objectDesc form="codex">
-                        <supportDesc material="">
-                           <support><!--todo--></support>
-                           <extent><!--todo--></extent>
-                        </supportDesc>
-                        <layoutDesc>
-                           <layout><!--todo--></layout>
-                        </layoutDesc>
-                     </objectDesc>
-                     <handDesc>
-                        <handNote><!--todo--></handNote>
-                     </handDesc>
-                     <decoDesc>
-                        <decoNote><!--todo--></decoNote>
-                     </decoDesc>
-                  </physDesc>
-                  <history>
-                     <origin>
-                        <origDate calendar="Gregorian" notBefore="" notAfter=""><!--todo--></origDate>
-                        <origPlace>
-                           <country><!--todo--></country>
-                        </origPlace>
-                     </origin>
-                     <provenance><!--todo--></provenance>
-                  </history>
-               </msPart>
-               <msPart xml:id="All_Souls_College_MS_42-part7">
-                  <msIdentifier>
-                     <altIdentifier>
-                        <idno>All Souls College MS. 42, part
-                                                  <!--todo--></idno>
-                     </altIdentifier>
-                  </msIdentifier>
-                  <msContents>
-                     <textLang mainLang="la">Latin</textLang>
-                     <msItem n="1" xml:id="All_Souls_College_MS_42-part7-item1">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
-                     </msItem>
-                     <msItem n="2" xml:id="All_Souls_College_MS_42-part7-item2">
+                     <msItem n="2" xml:id="All_Souls_College_MS_42-partG-item2">
                         <rubric><!--todo--></rubric>
                         <incipit><!--todo--></incipit>
                         <explicit><!--todo--></explicit>
