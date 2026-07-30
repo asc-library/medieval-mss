@@ -358,7 +358,7 @@
                         <incipit><locus from="198r" to="198r">Fol. 198<hi rend="superscript">r</hi>.</locus> Hec igitur</incipit>
                         <explicit><locus from="198r" to="198r">Fol. 198<hi rend="superscript">r</hi>.</locus> nostre translacionis nono.</explicit>
                         <author key="person_104723503">John Stratford</author>
-                        <title>Section of the statutes of Abp. John Stratford</title>
+                        <title key="work_7828">Section of the statutes of Abp. John Stratford</title>
                         <note>The final section of the statutes of Abp. John Stratford of <date when="1342">1342</date>, pr. <bibl>Wilkins, <title>Concilia</title>, ii. 694-5</bibl>, and by a further paragraph, not in Wilkins, listing those present at promulgation.
                         </note>
                      </msItem>
@@ -522,146 +522,125 @@
                         <note>pr. <bibl>Wilkins, <title>Concilia</title>, i. 477-9</bibl>. Our text has chs. 17, 9, 12, 13, 17, and 19 of those printed by <bibl>D. Whitelock, M. Brett, and C. N. L. Brooke, <title>Councils and Synods, i: A.D. 871-1204, part II 1066-1204</title> (Oxford, 1981), 983-92</bibl>. On the text of the canons see <bibl>Cheney, <title>Legislation</title>, at 385-8</bibl>                        </note>
                      </msItem>
                      <msItem n="5" xml:id="All_Souls_College_MS_42-partF-item5">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="222v" to="222v">Fol. 222<hi rend="superscript">v</hi>.</locus> Constituciones domini <persName key="person_219412992">bonefacij</persName> archiepiscopi consilio prouinciali de Westm'. Uniuersis christe fidelibus ad quos presens pagina peruenerit B. permissione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="226v" to="226v">Fol. 226<hi rend="superscript">v</hi>.</locus> Dat' apud Westm' <gap reason="editorial" /> <date calendar="Julian" when="1258-06-08">Sexto idus junij Anno domini millesimo CC lviij</date></explicit>
+                        <title key="work_7830">Canons of the provincial council of Abp. Boniface, 1258</title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Powicke and Cheney, ii. 572-85.</bibl>
+                           <bibl>On the text see ibid. 568-71</bibl>
+                           <bibl>Cheney, <title>Legislation</title>, at 402-6.</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="6" xml:id="All_Souls_College_MS_42-partF-item6">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="226v" to="226v">Fol. 226<hi rend="superscript">v</hi>.</locus> Incipiunt constituciones <persName key="person_219412992">bonifacij</persName> archiepiscopi Cantuariensis apud lambehith' edite. Uniuersis sancte matris Ecclesie filijs per Cant' prouinciam constitutis B. miseracione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="232v" to="232v">Fol. 232<hi rend="superscript">v</hi>.</locus> Acta sunt hec in consilio apud lambehyth' celebrato <gap reason="editorial" /> <date calendar="Julian" when="1261-05-13">iij idus maij <gap reason="editorial" /> anno domini M<hi rend="superscript">o</hi> CC<hi rend="superscript">o</hi> sexagesimo primo</date></explicit>
+                        <title key="work_17109">Canons of the provincial council of Abp. Boniface, 1261</title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Powicke and Cheney, ii. 669-85.</bibl>
+                           <bibl>On the text see ibid. 660-7</bibl>
+                           <bibl>Cheney, <title>Legislation</title>, at 402-6.</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="7" xml:id="All_Souls_College_MS_42-partF-item7">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
+                        <incipit><locus from="232v" to="232v">Fol. 232<hi rend="superscript">v</hi>.</locus> Incipiunt Constituciones sancti Edmundi Cantuariensis archiepiscopi. Que sunt irregulares et suspensi. In primis igitur in uirtute spiritus sancti districte precipimus</incipit>
+                        <explicit><locus from="235v" to="235v">Fol. 235<hi rend="superscript">v</hi>.</locus> et hoc volumus sepius in ecclesia denunciari.</explicit>
+                        <title type="desc">The so-called canons of the provincial council of Abp. Edmund Rich, c.1236</title>
+                        <listBibl><bibl>pr. Wilkins, <title>Concilia</title>, i. 635-40.</bibl>
                         </listBibl>
+                        <note>
+                           <bibl>Cheney, <title>Legislation</title>, at 400-2</bibl>, rejects a connection with <persName key="person_315944519">Abp. Rich</persName>: chs. 1-38 (those in our manuscript) are a word-for-word repetition of clauses in the Salisbury constitutions of Bp. Richard Poore, 1217-22, <bibl>pr. Powicke and Cheney, i. 57-96</bibl>.
+                        </note>
                      </msItem>
                      <msItem n="8" xml:id="All_Souls_College_MS_42-partF-item8">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="235v" to="235v">Fol. 235<hi rend="superscript">v</hi>.</locus> Incipiunt constituciones fratris <persName key="person_88794405">Johannis Pecham</persName> archiepiscopi Cantuariensis apud <placeName key="place_7011918">Redyng</placeName>. Audistis presens conscripti istius constitucionis tenorem</incipit>
+                        <explicit><locus from="238v" to="238v">Fol. 238<hi rend="superscript">v</hi>.</locus> Expliciunt constituciones
+                           edite apud Redyng. <date calendar="Julian" when="1279">Anno domini millesimo CC<hi rend="superscript">o</hi> lxxix<hi rend="superscript">o</hi></date>.</explicit>
+                        <title key="work_7396">Canons of the <orgName key="org_135">provincial council of Abp. John Pecham, 1279</orgName></title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Powicke and Cheney, i. 833 et seq.</bibl>
+                           <bibl>and Wilkins, <title>Concilia</title>, ii. 33-6</bibl>
+                           <bibl>See Cheney, <title>So-called Statutes</title>, and <title>Legislation</title>, at 407-9.</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="9" xml:id="All_Souls_College_MS_42-partF-item9">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="238v" to="238v">Fol. 238<hi rend="superscript">v</hi>.</locus> Et incipiunt alie constituciones eiusdem <unclear>Johannis Pecham</unclear> apud Lambyth'. Ab exordio nascentis ecclesie christiane</incipit>
+                        <explicit><locus from="247r" to="247r">Fol. 247<hi rend="superscript">r</hi></locus> Dicta sunt hec in consilio apud lambyth' celebrato. die veneris vj<hi rend="superscript">o</hi> Idus Nouembris. anno domini M<hi rend="superscript">o</hi> CC<hi rend="superscript">mo</hi> Ixxx<hi rend="superscript">o</hi> primo.</explicit>
+                        <title key="work_11361">Canons of the provincial council of Abp. <persName key="person_88794405">John Pecham</persName>, 1281</title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Powicke and Cheney, ii. 892-918.
+                           </bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="10" xml:id="All_Souls_College_MS_42-partF-item10">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="247r" to="247r">Fol. 247<hi rend="superscript">r</hi></locus> Incipiunt eciam et alie constituciones domini <persName key="person_88794405">Johannis Pecham</persName> archiepiscopi Cantuariensis. Quod archiepiscopus non rescribat pro querelis subditorum cuiuscumque suffraganei. Anno domini Millesimo CC<hi rend="superscript">o</hi> lxxxij<hi rend="superscript">o</hi> vij idus Mai</incipit>
+                        <explicit><locus from="247v" to="247v">Fol. 247<hi rend="superscript">v</hi></locus> vt <choice><sic>huius</sic><corr>huiusmodi</corr></choice> prolixitas euitetur. Acta sunt hec anno mense die et loco supradicto.</explicit>
+                        <title type="desc">Report by clerks of <persName key="person_8716151248013444270006">Godfrey Giffard</persName>, bp. of Worcester, on the terms of the council of the province of Canterbury held in London in <date when="1282-04">April 1282</date></title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Powicke and Cheney, ii. 934-6.</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="11" xml:id="All_Souls_College_MS_42-partF-item11">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                        <rubric><locus from="247v" to="247v">Fol. 247<hi rend="superscript">v</hi></locus> Decretum</rubric>
+                        <incipit><locus from="248r" to="248r">Fol. 248<hi rend="superscript">r</hi></locus> Reuerendi patris domini Roberti dei gracia Cantuariensis archiepiscopi in sua Visitacione in diocesi Wigorn' factum inter Rectores ecclesiarum et eorum parochianos de ornamentis ecclesie. Ad doctrinam presenciam et memoriam futurorum</incipit>
+                        <explicit><locus from="248r" to="248r">Fol. 248<hi rend="superscript">r</hi></locus> per diuersas ordinaciones et consuetudines approbatas habent a locorum rectoribus et vicarijs reparari.</explicit>
+                        <title type="desc">A statute of Abp. John Pecham, on church ornaments</title>
+                        <note>
+                           <bibl>pr. Powicke and Cheney, ii. 1385</bibl>, and described there as <q>one of the more reliable versions of the various revised forms of <persName key="person_88794405">John Pecham</persName>'s statute.</q> <bibl>See also Cheney, <title>So-called Statutes</title>, 18-19</bibl>.
+                        </note>
                      </msItem>
                      <msItem n="12" xml:id="All_Souls_College_MS_42-partF-item12">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                        <incipit><locus from="248r" to="248r">Fol. 248<hi rend="superscript">r</hi></locus> Incipiunt constituciones domini Johannis Stratford. Sponsam christi sacrosanctam ecclesiam priuilegio libertatis</incipit>
+                        <explicit><locus from="256r" to="256r">Fol. 256<hi rend="superscript">r</hi></locus>  et interdicti ad presentacionem decimarum predictarum compellatis.</explicit>
+                        <title key="work_17112">Canons of the provincial council of Abp. John Stratford, 1342, issued May 1343</title>
+                        <note>
+                           <p>
+                              <bibl>pr. Wilkins, <title>Concilia</title>, ii. 702-9</bibl>, where chs. 1-13 correspond to our text but in the manuscript are followed by a chapter not in Wilkins (although it bears the title of his ch. xiv), <q>De herbis et arboribus in cimiterio crescentibus</q> beg. <q>Ad doctrinam presencium etc. Ceterum advertentes que sacra sunt et religiosa</q> (not identified).
+                           </p>
+                           <p>In the manuscript this is followed (<locus from="254v">fol. 254<hi rend="superscript">v</hi></locus>) by a chapter <q>de arboribus in cimiterio crescentibus</q> beg. <q>Quoniam inter rectores</q>, <bibl>pr. Powicke and Cheney, ii. 1009</bibl> as part of the 1297 statutes of <persName key="person_2137">Bp. Quivel of Exeter</persName>, beginning with the last line on p. 1009 and continuing to the end.</p>
+                           <p>Next in the manuscript (<locus from="254v">fol. 254<hi rend="superscript">v</hi></locus>) is Wilkins's ch. 14, here entitled <q>De parochianis. arbores in cimiterio prosteruentibus absque licencia rectoris</q>. Wilkins's chs. 15-17 and the manuscript are in agreement but the manuscript then concludes with two chapters not included by him, <q>De collacione officij aquebaiulatus</q> (another of the statutes of Bp. Quivel of Exeter, <bibl>Wilkins, <title>Concilia, ii. 147</title></bibl>, <bibl>Powicke and Cheney, ii. 1026-7</bibl>, and see <bibl>Cheney, <title>So-called Statutes</title>, 32</bibl>) and <q>De decimis lactis soluendis a primo tempore suo inuocacionis et alijs tam de prouentibus boscorum Warennorum quam artificiorum</q> (<bibl>Powicke and Cheney, ii. 1389-91</bibl>, who remark that although it is frequently attributed to <persName role="att" key="person_48966077">Abp. Winchelsey</persName>, the terms of the statute suggest a mandate from a bishop or archdeacon rather than provincial legislation).</p>
+                           <p>This item forms the third series of <persName key="person_104723503">Stratford</persName>'s canons, as described by <bibl>Cheney, <title>Legislation</title>, at 415-17</bibl>. For the second series see <ref target="#All_Souls_College_MS_42-partF-item32">item F(xxxii) below</ref>.</p>
+                        </note>
                      </msItem>
                      <msItem n="13" xml:id="All_Souls_College_MS_42-partF-item13">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                        <incipit><locus from="256r" to="256r">Fol. 256<hi rend="superscript">r</hi></locus> Constitucio domini <persName key="person_48966077">Roberti Wynchelsey</persName> <gap reason="editorial" /> de stipendiarijs presbyteris postea innouata per dominum <persName key="person_92144648496325415366">W. Cortenay</persName> Cantuariensem archiepiscopum. Statuimus decreuimus et ordinamus quod nullus secularis aut regularis ad predicandum</incipit>
+                        <explicit><locus from="257r" to="257r">Fol. 257<hi rend="superscript">r</hi></locus> semel uolumus publicari.</explicit>
+                        <title type="desc">Constitution of Abp. Robert Wynchelsey(?) concerning stipendiary priests</title>
+                        <note>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, iii. 213-14</bibl>, followed in the manuscript by <q>Littera directa ad exequendum dictam constitucionem</q>. <bibl>C. R. Cheney, 'William Lyndwood's Provinciale', <title>Jurist</title>, 21 (1961), 405-34 at 417 n. 45</bibl>; repr. <bibl>id., <title>Medieval Texts and Studies</title> (Oxford, 1973), 158-84, at 168-9 n. 7</bibl>, comments that these constitutions may be a genuine pronouncement of the archbishop and that they were in any case reissued as an official decree for the province by Abps. Courtenay and Chichele.
+                        </note>
                      </msItem>
                      <msItem n="14" xml:id="All_Souls_College_MS_42-partF-item14">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="257v" to="257v">Fol. 257<hi rend="superscript">v</hi></locus> Constituciones prouinciales per Reuerendum in christo patrem et dominum dominum <persName key="person_217369085">Thomam dei gracia archiepiscopum</persName> in concilio oxon' edite <date when="1407">Anno domini millesimo CCCC<hi rend="superscript">mo</hi>. vij<hi rend="superscript">o</hi>.</date> etc. Thomas permissione diuina Cantuariensis archiepiscopus</incipit>
+                        <explicit><locus from="262r" to="262r">Fol. 262<hi rend="superscript">r</hi></locus> Dat' apud fordo <date when="1410-01-19">xix die mensis Januarij. anno domini m<hi rend="superscript">o</hi> CCCC x<hi rend="superscript">o</hi></date> et nostre translacionis anno xv<hi rend="superscript">o</hi>. </explicit>
+                        <title>Statutes of Abp. Thomas Arundel, <date when="1408">1408</date></title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, iii. 314-19.
+                           </bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="15" xml:id="All_Souls_College_MS_42-partF-item15">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
-                        <listBibl>
-                           <bibl><!--todo--></bibl>
-                        </listBibl>
+                        <incipit><locus from="262r" to="262r">Fol. 262<hi rend="superscript">r</hi></locus> Constitucio domini <persName role="att" key="person_53514732">Simonis <sic>yslepp</sic></persName> Cantuariensis archiepisopi. de stipendiis presbiterorum parochialium et annualium. Effrenata generi humani cupiditas</incipit>
+                        <explicit><locus from="263r" to="263r">Fol. 263<hi rend="superscript">r</hi></locus> temporibus predictis usitatam uolumus coartari.</explicit>
+                        <title>Constitution of <persName key="person_249560230">Abp. Simon Sudbury</persName>, <date when="1378">1378</date></title>
+                        <note>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, iii. 135-6, from Lambeth Palace Library, Reg. Sudbury.</bibl> Our text is in a different order.
+                        </note>
                      </msItem>
                      <msItem n="16" xml:id="All_Souls_College_MS_42-partF-item16">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="263r" to="263r">Fol. 263<hi rend="superscript">r</hi></locus> Constitucio domini Rogeri Walden Cantuariensis archiepiscopi super indiccione festorum Sanctorum. Dauid. Cedde et Wenefride ac commendacione Sancti Thome. Splendor paterne glorie</incipit>
+                        <explicit><locus from="263v" to="263v">Fol. 263<hi rend="superscript">v</hi></locus> honorem et gloriam laudabiliter obseruari.</explicit>
+                        <title type="desc">Constitution of <persName key="person_2473">Abp. Roger Walden</persName> concerning the celebration of the feasts of Sts David, Chad, Winifred, and Thomas of Canterbury [<date when="1398">1398</date>]</title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, iii. 234<hi rend="superscript">b</hi>, three lines from bottom of page to fol. 235<hi rend="superscript">a</hi>/49.</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="17" xml:id="All_Souls_College_MS_42-partF-item17">
-                        <rubric><!--todo--></rubric>
-                        <incipit><!--todo--></incipit>
-                        <explicit><!--todo--></explicit>
-                        <finalRubric><!--todo--></finalRubric>
-                        <author><!--todo--></author>
-                        <title><!--todo--></title>
+                        <incipit><locus from="263v" to="263v">Fol. 263<hi rend="superscript">v</hi></locus> Constitutio domini pape Vrbani pro festo sancte anne matris marie celebrande etc.</incipit>
+                        <quote><locus from="263v" to="263v">Fol. 263<hi rend="superscript">v</hi></locus> faciatis per uestros subditos celebrari. Dat' Rome apud</quote>
+                        <explicit><locus from="264r" to="264r">Fol. 264<hi rend="superscript">r</hi></locus> sanctum Petrum etc.</explicit>
+                        <title type="desc">Constitution of <persName key="person_24610819">Pope Urban VI</persName> concerning the celebration of the feast of St Anne, <date when="1383">1383</date></title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>pr. Wilkins, <title>Concilia</title>, iii. 178-9, from a mandate of Abp. William Courtenay (Lambeth Palace Library, Reg. Courtenay).</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="18" xml:id="All_Souls_College_MS_42-partF-item18">
@@ -672,7 +651,17 @@
                         <author><!--todo--></author>
                         <title><!--todo--></title>
                         <listBibl>
-                           <bibl><!--todo--></bibl>
+                           <bibl>Fol. 264. Constitucio facta pro festis celebrandis.
+                              Ex scriptura sacris [sic] didicimus [sic] vicia sepe se
+                              ingerere et virtutes esse mentiri... [fol. 264]... Dat'
+                              apud lameth'. .xviij. kal' decembr' anno domini anno
+                              m°. CCCmo. Ixij. Et nostre consecracionis Anno
+                              terciodecimo etc.
+                              Provincial constitution Ex scripturis of <persName key="person_53514732">Abp. Simon
+                              Islip</persName> for the proper observance of holy days, 1362,
+                              pr. from Reg. Sudbury i (Canterbury and York Soc.
+                              34. 188-9). The same text is (xxx) below, differently dated. On the versions of the text see C. R. Cheney,
+                              BIHR, 34 (1961), 117-42 at 132 (no. 13).</bibl>
                         </listBibl>
                      </msItem>
                      <msItem n="19" xml:id="All_Souls_College_MS_42-partF-item19">
